@@ -5,7 +5,7 @@ from pathlib import Path
 from collections import defaultdict
 from itertools import zip_longest
 from urllib.parse import quote_plus
-from os import environ
+from os import environ, listdir
 from datetime import datetime
 
 import orgidfinder
@@ -19,14 +19,20 @@ def zip_discard_compr(*iterables, sentinel=None):
 output_dir = Path('docs')
 scrape_started_at = datetime.now().isoformat()
 
-if len(sys.argv) > 1 and sys.argv[1] == '--refresh':
-    iatikit.download.data()
-
 guide = orgidfinder.setup_guide()
 
 data = []
-for dataset in iatikit.data().datasets.where(filetype='organisation'):
-    org_infos = orgidfinder.parse_org_file(dataset)
+
+countries = {}
+
+with open('data/metadata.csv', 'r', encoding='utf-8-sig') as metadata_f:
+    metadata_csv = csv.DictReader(metadata_f)
+    for row in metadata_csv:
+        countries[row['Country_code']] = row
+
+filenames = sorted([filename for filename in listdir('data') if filename.endswith('.csv') and filename != 'metadata.csv'])
+for filename in filenames:
+    org_infos = orgidfinder.parse_csv_file(countries, 'data/{}'.format(filename))
     for org_info in org_infos:
         org_info['org_type'] = guide._org_types.get(org_info['org_type_code'])
         id_ = quote_plus(org_info['org_id'])
