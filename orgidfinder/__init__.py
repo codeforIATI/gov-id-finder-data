@@ -1,4 +1,5 @@
 from . import orgidguide
+import csv
 
 
 ns = 'http://www.w3.org/XML/1998/namespace'
@@ -63,6 +64,37 @@ def parse_org_file(dataset):
         data['source_url'] = dataset.metadata['resources'][0]['url']
         data['source_dataset'] = dataset.name
         all_data.append(data)
+    return all_data
+
+
+def parse_csv_org(countries, country_code, organisation):
+    keys = list(organisation.keys())
+    values = list(organisation.values())
+    lang = keys[1].split("_")[1].lower()
+    country_name = countries[country_code]['Country_name'].strip()
+    org_name = {lang: '{} ({})'.format(values[1].strip(), country_name.strip())}
+    org_id = "{}-COA-{}".format(country_code, values[0].strip())
+    org_type_code = "10"
+    return {
+        'lang': lang,
+        'name': org_name,
+        'org_id': org_id,
+        'org_type_code': "10",
+    }
+
+
+def parse_csv_file(countries, filename):
+    all_data = []
+    with open(filename, 'r', encoding='ISO-8859-1') as _file:
+        country_code, _ = filename.split("/")[1].split(".")
+        rows = csv.DictReader(_file)
+        for organisation in rows:
+            data = parse_csv_org(countries, country_code, organisation)
+            if not data:
+                continue
+            data['source_url'] = countries[country_code]['Source']
+            data['source_dataset'] = '{} Budget'.format(countries[country_code]['Year'])
+            all_data.append(data)
     return all_data
 
 
