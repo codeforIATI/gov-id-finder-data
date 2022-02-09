@@ -59,7 +59,7 @@ $(window).on('load', function() {
         return 'Searching...';
       }
     },
-    placeholder: 'E.g. Publish What You Fund',
+    placeholder: 'E.g. Ministry of Health and Social Welfare (Liberia)',
     minimumInputLength: 3,
     ajax: {
       delay: 100,
@@ -109,12 +109,8 @@ $(window).on('load', function() {
 
       window.location.hash = encodedId;
 
-      var previewUrl = 'http://preview.iatistandard.org/index.php?url=' + encodeURIComponent(sourceUrl);
-      var registryUrl = 'https://iatiregistry.org/dataset/' + sourceDataset;
-
-      $('#source-preview').attr('href', previewUrl);
       $('#source-raw').attr('href', sourceUrl);
-      $('#source-registry').attr('href', registryUrl);
+      $('#source-dataset').html(sourceDataset);
 
       $('#org-identifier').val(identifier);
       $('#org-type').val(org_type);
