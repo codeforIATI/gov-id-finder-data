@@ -64,7 +64,7 @@ $(window).on('load', function() {
     ajax: {
       delay: 100,
       url: function (params) {
-        var lookup = params.term.substr(0, 3);
+        var lookup = params.term.substr(0, 3).toLowerCase();
         return '/data/lookup/' + encodeURIComponent(lookup) + '.json';
       },
       processResults: function (data, params) {
