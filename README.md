@@ -1,6 +1,9 @@
-# Organisation ID Finder
+# Government Organisation ID Finder
 
-Search organisation names to find their respective organisation identifiers (and vice versa), using data from IATI organisation files.
+Search government entity names (e.g. Ministries) to find their respective organisation identifiers (and vice versa), using data published in government budgets.
+
+This repository contains the data; the front end can be found in the following repository:
+https://github.com/codeforIATI/gov-id-finder
 
 ## What’s this for?
 
@@ -18,11 +21,11 @@ However, there’s no single database for these references (there’s just a [li
 
 ## Why take this approach?
 
-This works (more or less) as described by @stevieflow [on IATI discuss](https://discuss.codeforiati.org/t/getting-to-a-list-of-organisation-references-for-iati-publishers/1060). This approach is great because:
+This works as described by [on IATI Connect](https://iaticonnect.org/group/7/discussion/new-methodology-identifying-government-entities). This approach means that:
 
- 1. It’s very simple to understand
- 2. It’s very easy to automate
- 3. It focuses on self-reported identifiers (and as we know, [publishers are responsible for their own data](http://www.publishwhatyoufund.org/if-you-cant-report-a-pothole/)). So if there’s a mistake, it should be easy to figure out who’s responsible for fixing it.
+ 1. It’s relatively simple to understand
+ 2. It’s easy to automate
+ 3. It focuses on codes used by governments in their own budgets, or Charts of Accounts
 
 ----
 
