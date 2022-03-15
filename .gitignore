@@ -1,3 +1,6 @@
+.DS_Store
+*.sublime-*
+
 # jekyll
 /docs
 /__iatikitcache__
