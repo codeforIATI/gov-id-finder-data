@@ -5,7 +5,7 @@ from pathlib import Path
 from collections import defaultdict
 from itertools import zip_longest
 from urllib.parse import quote_plus
-from os import environ, listdir
+from os import environ, listdir, makedirs
 from datetime import datetime
 
 import orgidfinder
@@ -24,6 +24,8 @@ data = []
 
 countries = {}
 
+makedirs(f'{output_dir}/source', exist_ok=True)
+
 
 def copy_csvfile(filename, newFilename, encoding_from, encoding_to='UTF-8'):
     with open(filename, 'r', encoding=encoding_from) as fr:
@@ -37,12 +39,12 @@ with open('data/metadata.csv', 'r', encoding='utf-8-sig') as metadata_f:
     for row in metadata_csv:
         countries[row['Country_code']] = row
 
-copy_csvfile('data/metadata.csv', 'docs/metadata.csv', 'utf-8-sig')
+copy_csvfile('data/metadata.csv', f'{output_dir}/source/metadata.csv', 'utf-8-sig')
 
 filenames = sorted([filename for filename in listdir('data') if filename.endswith('.csv') and filename != 'metadata.csv'])
 for filename in filenames:
-    copy_csvfile('data/{}'.format(filename), 'docs/{}'.format(filename), 'ISO-8859-1')
-    org_infos = orgidfinder.parse_csv_file(countries, 'data/{}'.format(filename))
+    copy_csvfile(f'data/{filename}', f'{output_dir}/source/{filename}', 'ISO-8859-1')
+    org_infos = orgidfinder.parse_csv_file(countries, f'data/{filename}')
     for org_info in org_infos:
         org_info['org_type'] = guide._org_types.get(org_info['org_type_code'])
         id_ = quote_plus(org_info['org_id'])
