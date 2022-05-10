@@ -4,30 +4,25 @@
 03,Office of the Vice-President (OVP)
 04,Department of Agrarian Reform (DAR)
 05,Department of Agriculture (DA)
-05,Dept. of Agriculture (Office of the Secretary)
 06,Department of Budget and Management (DBM)
 07,Department of Education (DepEd)
 08,State Universities and Colleges (SUCs)
 09,Department of Energy (DOE)
 10,Department of Environment and Natural Resources (DENR)
-10,Department of Environment & Natural Resources
 11,Department of Finance (DOF)
 12,Department of Foreign Affairs (DFA)
 13,Department of Health (DOH)
 14,Department of the Interior and Local Government (DILG)
-14,Department of Interior and Local Government
 15,Department of Justice (DOJ)
 16,Department of Labor and Employment (DOLE)
 17,Department of National Defense (DND)
 18,Department of Public Works and Highways (DPWH)
-18,Dept. of Public Works and Highways
 19,Department of Science and Technology (DOST)
 20,Department of Social Welfare and Development (DSWD)
 21,Department of Tourism (DOT)
 22,Department of Trade and Industry (DTI)
 23,Department of Transportation and Communications (DOTC)
 24,National Economic and Development Authority (NEDA)
-24,National Economic & Development Authority
 25,Presidential Communications Operations Office (PCOO)
 26,Other Executive Offices (OEOs)
 27,Autonomous Region in Muslim Mindanao (ARMM)
@@ -55,7 +50,6 @@
 05001,Department of Agriculture (Office of the Secretary)
 05002,Agricultural Credit Policy Council
 05003,Bureau of Fisheries and Aquatic Resources
-05003,Bureau of Fisheries & Aquatic Resources
 05004,Cotton Development Administration
 05005,Fertilizer and Pesticide Authority
 05006,Fiber Industry Development Authority
@@ -317,7 +311,6 @@
 24003,National Statistics Office
 24004,Philippine National Volunteer Service Coordinating Agency
 24005,Public-Private Partnership Center of the Philippines
-24005,PPP Center of the Philippines (attached to NEDA)
 24006,Philippine Statistical Research and Training Institute (formerly Statistical Research and Training Center)
 24007,Tariff Commission
 24008,Philippine Statistics Authority
