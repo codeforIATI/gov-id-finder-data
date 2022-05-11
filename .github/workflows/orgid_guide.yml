@@ -37,6 +37,7 @@ jobs:
       if: github.ref == 'refs/heads/main'
       uses: peter-evans/create-pull-request@v3
       with:
+        token: ${{ secrets.TOKEN }}
         path: orgid_repo
         commit-message: Org-ID update from gov-id-finder-data
         committer: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
