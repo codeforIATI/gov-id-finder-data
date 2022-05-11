@@ -9,7 +9,7 @@ jobs:
     - uses: actions/checkout@v2
       name: Pull repo
       with:
-        repository: org-id/registry
+        repository: org-id/register
         path: orgid_repo
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
