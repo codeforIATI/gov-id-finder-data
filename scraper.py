@@ -55,12 +55,12 @@ for filename in filenames:
 with open(Path(f'docs/downloads/org-ids.json'), 'w') as f:
     json.dump(data, f)
 
-fieldnames = ['org_id', 'name', 'org_type', 'org_type_code', 'source_dataset', 'source_url']
+fieldnames = ['org_id', 'name', 'name_simple', 'country_code', 'country_name', 'org_type', 'org_type_code', 'source_dataset', 'source_url']
 with open(Path(f'docs/downloads/org-ids.csv'), 'w') as f:
     w = csv.DictWriter(f, fieldnames=fieldnames)
     w.writeheader()
     for d in data:
-        w.writerow({f: d.get(f, '') if f != 'name' else d['name'][d['lang']] for f in fieldnames})
+        w.writerow({f: d.get(f, '') if f not in ['name', 'name_simple'] else d[f][d['lang']] for f in fieldnames})
 
 counter = defaultdict(set)
 minlen = 3
