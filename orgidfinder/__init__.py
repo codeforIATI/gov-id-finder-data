@@ -73,11 +73,15 @@ def parse_csv_org(countries, country_code, organisation):
     lang = keys[1].split("_")[1].lower()
     country_name = countries[country_code]['Country_name'].strip()
     org_name = {lang: '{} ({})'.format(values[1].strip(), country_name.strip())}
+    org_name_simple = {lang: '{}'.format(values[1].strip())}
     org_id = "{}-COA-{}".format(country_code, values[0].strip())
     org_type_code = "10"
     return {
         'lang': lang,
         'name': org_name,
+        'name_simple': org_name_simple,
+        'country_code': country_code,
+        'country_name': country_name,
         'org_id': org_id,
         'org_type_code': "10",
     }
