@@ -1,0 +1,222 @@
+code,name_en
+0100,Parliament
+0101,National Assembly
+0102,Ntlo ya Dikgosi
+0200,Ministry for State President (MSP)
+0201,State House
+0202,Office of the President
+0203,Directorate of Public Service Management
+0209,Botswana Defence Force
+0211,National Aids and Health Promotion Agency
+0213,Office of the Former President - F.G. Mogae
+0215,Department of Information Services
+0216,Department of Broadcasting Services
+0217,Department of Government Printing and Publishing Services
+0219,National Strategy Office
+0220,Directorate on Corruption and Economic Crime
+0221,Directorate on Intelligence and Security
+0222,Office of the Former President - S.K.I Khama
+0223,Counter Terrorism Analysis And Fusion Agency
+0224,Headquaters (MSP)
+0225,National Planning Commission
+0300,Ministry of Finance (MoF)
+0301,Headquarters (MoF)
+0302,Office of the Accountant General
+0308,Financial Intelligence Agency
+0309,Internal Audit
+0400,Ministry of Labour and Home Affairs (MLHA)
+0401,Headquarters (MLHA)
+0402,Department of Immigration & Citizenship
+0404,Department of Labour and Social Security
+0408,Department of Gender Affairs
+0411,Department of Civil and National Registration
+0413,Labour and Social Security
+0414,Occupational Health and Safety
+0415,National Internship Programme
+0416,Botswana Public Service College
+0500,Ministry of Agriculture (MoA)
+0501,Headquarters (MoA)
+0503,Department of Crop Production and Forestry
+0504,Department of Agricultural Research
+0507,Department of Animal Production
+0509,Department of Agricultural Business Promotions
+0510,Department of Veterinary Services
+0511,Department of Agricultural Research Statistics and Policy Development
+0600,Ministry of Education and Skills Development (MESD)
+0600,Ministry of Education and Skills Development (MESD)
+0601,Headquarters (MESD)
+0602,Department of Vocational Training and Education
+0604,Department of Out of School Education and Training
+0605,Department of Curriculum Development and Evaluation
+0606,Department of Teaching Service Management
+0607,Department of Pre and Primary
+0608,Department of Secondary Education
+0610,Department of Technical Services
+0611,"Department of Information, Communication and Media Services"
+0612,Department of Special Support Services
+0613,Department of Educational Planning and Research
+0614,Tertiary Education Financing
+0615,Teacher Training and Technical Education
+0616,Institute of Health Sciences
+0617,Skills Development
+0700,Ministry of Trade and Industry (MTI)
+0701,Headquarters (MTI)
+0703,Department of Co-operative Development
+0704,Department of Trade and Consumer Affairs
+0705,Department of Industrial Affairs
+0706,Department of International Trade
+0709,Department of Research & Policy Development
+0710,Department of Business Services
+0800,Ministry of Local Government and Rural Development (MLG&RD)
+0801,Headquarters (MLG&RD)
+0804,Department of Local Governance and Development Planning
+0807,Department of Local Government Finance and Procurement Services
+0809,Department of Tribal Administration
+0810,Department of Local Government Technical Services
+0813,Department of Rural Development
+0814,Department of Social Protection
+0815,Department of Community Development
+1000,Ministry of Minerals and Energy (MME)
+1001,Headquarters (MME)
+1003,Department of Water Affairs
+1004,Department of Mines
+1005,Department of Energy Affairs
+1100,Ministry of Health (MoH)
+1101,Headquarters (MoH)
+1104,Department of Primary Health Care Services
+1107,Department of Health Sector Relations and Partnership
+1108,Department of Clinical Services
+1109,Department of Public Health
+1110,Department of AIDS Prevention and Care
+1111,Department of Health Inspectorate
+1113,Department of Health Policy Research and Development (HPRD)
+1114,Department of Health Services Management (HSM)
+1115,Department of HSME & QA
+1116,Botswana Public Health Institute (BPHI)
+1200,Administration of Justice
+1201,Administration of Justice
+1300,Attorney General's Chambers
+1301,Attorney General's Chambers
+1400,Office of the Auditor General
+1401,Office of the Auditor General
+1500,Ministry of Foreign Affairs (MFA)
+1501,Headquarters (MFA)
+1502,Embassy of U.S.A (Washington)
+1503,Permanent Representative to U.N (New York)
+1504,High Commission U.K. (London)
+1505,High Commission Zambia (Lusaka)
+1506,Embassy EEC and Europe (Brussels)
+1507,Embassy Sweden (Stockholm)
+1508,Embassy Zimbabwe (Harare)
+1509,High Commission Namibia (Windhoek)
+1510,Embassy China (Beijing)
+1511,Embassy Switzerland (Geneva)
+1512,High Commission South Africa (Pretoria)
+1513,Consulate General Johannesburg
+1515,Embassy Japan (Tokyo)
+1516,Embassy Ethopia (Addis Ababa)
+1517,High Commission Kenya (Nairobi)
+1518,High Commision Australia (Canberra)
+1519,High Commission India (New Delhi)
+1520,High Commission Nigeria (Abuja)
+1521,Embassy Brazil (Brasilia)
+1522,Embassy Kuwait (Kuwait City)
+1523,High Commission Mozambique (Maputo)
+1524,Embassy Germany (Berlin)
+1525,Embassy France (Paris)
+1526,International Economic Policy Coordination
+1600,Independent Electoral Commission
+1601,Independent Electoral Commission
+1700,Office of the Ombudsman
+1701,Office of the Ombudsman
+1800,Ministry of Lands and Water Affairs (MLWA)
+1801,Headquarters (MLWA)
+1803,Department of Surveys and Mapping
+1804,Department of Town and Country Planning
+1805,Department of Lands
+1806,Deeds Registry
+1808,Department of Project Management Office
+1809,Department of Water and Sanitation
+1811,Land Tribunal
+2000,Ministry of Environment and Tourism (MET)
+2001,Headquarters (MET)
+2002,Department of Wildlife and National Parks
+2000,Ministry of Environment and Tourism (MET)
+2003,Department of Tourism
+2004,Department of Meteorological Services
+2005,Department of Sanitation and Pollution Control
+2006,Department of Forestry and Range Resources
+2007,Department of Environmental Affairs
+2008,"Department of National Museum, Monuments and Art Gallery"
+2100,Industrial Court
+2101,Industrial Court
+2200,"Ministry of Youth, Gender, Sport and Culture (MYSC)"
+2201,Headquarters(MYSC)
+2206,Department of National Archives and Records Services
+2208,Department of Youth
+2209,Department of National Internship Programme
+2210,Gender Affairs
+2300,Ministry of Transport and Public Works (MTPW)
+2301,Headquarters (MTPW)
+2302,Department of Building and Engineering Services
+2305,Department of Housing
+2306,Department of Project Infrastructure Planning
+2307,Department of Facilities Management
+2308,Department of Infrastructure Development
+2309,"Department of Policy Research and Development, Monitoring and Evaluation"
+2310,Road Transport and Safety
+2311,Government Fleet Management
+2312,Road Infrastructure Planning
+2313,Building Works Development and Maintenance
+2314,Road Infrastructure Development and Maintenance
+2315,Transport Corridor Management
+2400,"Ministry of Communications, Knowledge and Technology (MCKT)"
+2401,Headquarters (MCKT)
+2402,Department of Road Transport and Safety
+2403,Department of Central Transport Organisation
+2404,Department of Telecommunications and Postal Services
+2405,Department of Roads
+2406,Department of Information Technology
+2407,"Research, Science and Technology"
+2408,Radiation Protection
+2500,Ministry of Defence and Security (MDS)
+2501,Headquarters (MDS)
+2502,Botswana  Defence Force
+2503,Botswana Police Service
+2505,Department of Prisons and Rehabilitation
+2600,"Ministry of Employment, Labour Productivity and Skills Development"
+2601,Headquarters (MELSD)
+2602,Department of Labour & Social Security
+2603,Department of Occupational Health & Safety
+2604,Department of Skills Development
+2700,"Ministry of Tertiary Education, Research, Science and Technology"
+2701,Headquarters (MoTE)
+2702,Department of Tertiary Education Financing
+2703,Department of Teacher Training and Technical Education
+2704,"Department of Research, Science and Technology"
+2705,Radiation Protection Inspectorate
+2706,Department of Institutes of Health Sciences
+2800,Ethics and Integrity Directorate
+2801,Ethics and Integrity Directorate
+2900,Ministry of Justice (MoJ)
+2901,Headquarters (MoJ)
+2903,Office of the Receiver
+2904,Department of Refugee Management and Anti Human Trafficking
+2905,Department of Land Tribunal
+3000,Ministry of Entrepreneurship (MoE)
+3001,Headquarters (MoE)
+3002,Department of Entrepreneurial Mind Set Change and Culture
+3003,Department of Startup Services
+3004,Department of Enterprise Development
+3005,Department of Cooperatives and Cluster Development
+3006,Department of Value Chain Develompment
+9100,Appropriations from Revenue
+9101,Appropriations from Revenue
+9200,Public Debt
+9201,Public Debt
+9300,"Pensions, Gratuities and Compensations"
+9301,Pensions Gratuities and Compensations
+9400,Salaries and Allowances- Specified Officers
+9401,Salaries and Allowances- Specified Officers
+9600,Miscellaneous
+9601,Miscellaneous
