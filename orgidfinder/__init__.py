@@ -89,7 +89,7 @@ def parse_csv_org(countries, country_code, organisation):
 
 def parse_csv_file(countries, filename):
     all_data = []
-    with open(filename, 'r', encoding='ISO-8859-1') as _file:
+    with open(filename, 'r', encoding='UTF-8') as _file:
         country_code, _ = filename.split("/")[1].split(".")
         rows = csv.DictReader(_file)
         for organisation in rows:

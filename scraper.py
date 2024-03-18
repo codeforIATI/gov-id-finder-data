@@ -34,16 +34,16 @@ def copy_csvfile(filename, newFilename, encoding_from, encoding_to='UTF-8'):
                 fw.write(line[:-1]+'\r\n')
 
 
-with open('data/metadata.csv', 'r', encoding='utf-8-sig') as metadata_f:
+with open('data/metadata.csv', 'r', encoding='UTF-8') as metadata_f:
     metadata_csv = csv.DictReader(metadata_f)
     for row in metadata_csv:
         countries[row['Country_code']] = row
 
-copy_csvfile('data/metadata.csv', f'{output_dir}/source/metadata.csv', 'utf-8-sig')
+copy_csvfile('data/metadata.csv', f'{output_dir}/source/metadata.csv', 'UTF-8')
 
 filenames = sorted([filename for filename in listdir('data') if filename.endswith('.csv') and filename != 'metadata.csv'])
 for filename in filenames:
-    copy_csvfile(f'data/{filename}', f'{output_dir}/source/{filename}', 'ISO-8859-1')
+    copy_csvfile(f'data/{filename}', f'{output_dir}/source/{filename}', 'UTF-8')
     org_infos = orgidfinder.parse_csv_file(countries, f'data/{filename}')
     for org_info in org_infos:
         org_info['org_type'] = guide._org_types.get(org_info['org_type_code'])
