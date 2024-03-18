@@ -1,33 +1,33 @@
-Code ,Name_en,Abbreviation
-20,Présidence de la République,"P.R(cabs civil, milit. & sces ratt.)"
-10,Assemblée Nationale,Assemblée Nationale
+code,name_en,Abbreviation
+20,PrÃ©sidence de la RÃ©publique,"P.R(cabs civil, milit. & sces ratt.)"
+10,AssemblÃ©e Nationale,AssemblÃ©e Nationale
 11,Cour Constitutionnelle,Cour Constitutionnelle
-12,Cour Suprême,Cour Suprême
+12,Cour SuprÃªme,Cour SuprÃªme
 13,Conseil Economique et Social,Conseil Economique & Social
-14,Haute Autorité de l'Audiovisuel et de la Communication,H.A.A.C.
+14,Haute AutoritÃ© de l'Audiovisuel et de la Communication,H.A.A.C.
 15,Haute Cour de Justice,Haute Cour de Justice
-16,Médiateur de la République,Médiateur de la République
+16,MÃ©diateur de la RÃ©publique,MÃ©diateur de la RÃ©publique
 17,Commission Electorale Nationale Autonome,CENA
 18,APDP,APDP (ex-CNIL)
-22,Ministère de la Défense Nationale,M.D.N.
-25,Ministère de l'Economie et des Finances,M.E.F
-26,Ministère de la Justice et de la Législation,M.J.L
-27,Ministère du Plan et du Développement,M.P.D
-52,Ministère du Travail et de la Fonction Publique,M.T.F.P
-41,Ministère des Affaires Sociales et de la Microfinance,M.A.S.M
-32,Ministère de l'Economie Numérique et de la Communication,M.E.N.C
-34,Ministère du Cadre de Vie et du Développement Durable,M.C.V.D.D
-35,Ministère de l'Industrie et du Commerce,M.I.C
-46,Ministère des Petites et Moyennes Entreprises et de la Promotion de l'Emploi,M.P.M.E.P.E
-37,Ministère de l'Energie,M.E
-36,Ministère de la Santé,M.Santé
-76,Ministère de l'Eau et des Mines,M.E.M
-40,"Ministère du Tourisme, de la Culture et des Sports",M.T.C.S
-39,"Ministère de l'Agriculture, de l'Elevage et de la Pêche",M.A.E.P.
-44,Ministère de l'Enseignement Supérieur et de la Recherche Scientifique,M.E.S.R.S.
-51,Ministère des Infrastructures et des Transports,M.I.T
-60,Ministère de l'Intérieur et de la Sécurité Publique,M.I.S.P
-61,Ministère de la Décentralisation et de la Gouvernance Locale,M.D.G.L
-62,Ministère des Enseignements Maternel et Primaire,M.E.M.P.
-63,"Ministère des Enseignements Secondaire, Technique et de la Formation Professionnelle",M.E.S.T.F.P
-64,Ministère des Affaires Etrangères et de la Coopération,M.A.E.C
+22,MinistÃ¨re de la DÃ©fense Nationale,M.D.N.
+25,MinistÃ¨re de l'Economie et des Finances,M.E.F
+26,MinistÃ¨re de la Justice et de la LÃ©gislation,M.J.L
+27,MinistÃ¨re du Plan et du DÃ©veloppement,M.P.D
+52,MinistÃ¨re du Travail et de la Fonction Publique,M.T.F.P
+41,MinistÃ¨re des Affaires Sociales et de la Microfinance,M.A.S.M
+32,MinistÃ¨re de l'Economie NumÃ©rique et de la Communication,M.E.N.C
+34,MinistÃ¨re du Cadre de Vie et du DÃ©veloppement Durable,M.C.V.D.D
+35,MinistÃ¨re de l'Industrie et du Commerce,M.I.C
+46,MinistÃ¨re des Petites et Moyennes Entreprises et de la Promotion de l'Emploi,M.P.M.E.P.E
+37,MinistÃ¨re de l'Energie,M.E
+36,MinistÃ¨re de la SantÃ©,M.SantÃ©
+76,MinistÃ¨re de l'Eau et des Mines,M.E.M
+40,"MinistÃ¨re du Tourisme, de la Culture et des Sports",M.T.C.S
+39,"MinistÃ¨re de l'Agriculture, de l'Elevage et de la PÃªche",M.A.E.P.
+44,MinistÃ¨re de l'Enseignement SupÃ©rieur et de la Recherche Scientifique,M.E.S.R.S.
+51,MinistÃ¨re des Infrastructures et des Transports,M.I.T
+60,MinistÃ¨re de l'IntÃ©rieur et de la SÃ©curitÃ© Publique,M.I.S.P
+61,MinistÃ¨re de la DÃ©centralisation et de la Gouvernance Locale,M.D.G.L
+62,MinistÃ¨re des Enseignements Maternel et Primaire,M.E.M.P.
+63,"MinistÃ¨re des Enseignements Secondaire, Technique et de la Formation Professionnelle",M.E.S.T.F.P
+64,MinistÃ¨re des Affaires EtrangÃ¨res et de la CoopÃ©ration,M.A.E.C

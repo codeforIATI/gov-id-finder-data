@@ -1,45 +1,45 @@
-Code ,Name_fr 
-01,Presidence De La Republique 
-02 ,Assemblee Nationale 
-03 ,Primature
-04 ,Cour Constitutionnelle 
-05 ,Conseil Economique et Social 
-06 ,Haut Conseil De La Communication 
-07 ,Conseil National De Mediation 
-08 ,Haute Cour De Justice 
-09,Haute Autorite Chargee De La Bonne Gouvernance 
-10,Autorite Nationale Des Elections 
-11,Ministere Charge Du Secretariat General Du Gouvernement 
-12,Ministere Charge Des Relations Avec Les Institutions De La Republique 
+code,name_fr
+01,Presidence De La Republique
+02,Assemblee Nationale
+03,Primature
+04,Cour Constitutionnelle
+05,Conseil Economique et Social
+06,Haut Conseil De La Communication
+07,Conseil National De Mediation
+08,Haute Cour De Justice
+09,Haute Autorite Chargee De La Bonne Gouvernance
+10,Autorite Nationale Des Elections
+11,Ministere Charge Du Secretariat General Du Gouvernement
+12,Ministere Charge Des Relations Avec Les Institutions De La Republique
 13,"Ministere De La Justice, Des Droits De L'Homme Garde Des Sceaux"
-14,Ministere De L'administration Du Terrirotire Et De La Decentralisation 
-15,Ministere Des Affaires Etrangeres Et Des Centrafricains de L'etranger 
-21,Ministere De La Defense Nationale Et De La Restructuration De L'armee 
-22,"Ministere Charge Du Desarmement, Demobilisation, Reinsertion et Rapatriement "
-25,Ministere De L'interieur Charge De La Securtie Publique 
-31,Ministere des finances et du budget 
-35,"Ministere De L'economie, Du Plan Et De La Cooperation "
-37,Ministere De La Fonction Publique 
-38,Ministere De La Modernisation De L'administration Et De L'innovation Du Service Public 
-40,Ministere De L'enseignement Primaire Et Secondaire 
-42,Ministere De L'enseignement Technique Et De L'alphabetisation 
-44,Ministere De La Recherche Scientifique Et De L'innovation Technologique 
-46,Ministere De L'enseignement Superieur 
-52,Ministere De La Communication Et Des Medias 
+14,Ministere De L'administration Du Terrirotire Et De La Decentralisation
+15,Ministere Des Affaires Etrangeres Et Des Centrafricains de L'etranger
+21,Ministere De La Defense Nationale Et De La Restructuration De L'armee
+22,"Ministere Charge Du Desarmement, Demobilisation, Reinsertion et Rapatriement"
+25,Ministere De L'interieur Charge De La Securtie Publique
+31,Ministere des finances et du budget
+35,"Ministere De L'economie, Du Plan Et De La Cooperation"
+37,Ministere De La Fonction Publique
+38,Ministere De La Modernisation De L'administration Et De L'innovation Du Service Public
+40,Ministere De L'enseignement Primaire Et Secondaire
+42,Ministere De L'enseignement Technique Et De L'alphabetisation
+44,Ministere De La Recherche Scientifique Et De L'innovation Technologique
+46,Ministere De L'enseignement Superieur
+52,Ministere De La Communication Et Des Medias
 55,Ministere De La Jeunesse Et Des Sports
-60,Ministere De La Sante Et De La Population 
-72,Ministere De L'action Humanitaire Et De La Reconciliation Nationale 
-73,"Ministere DU Travail, De L'emploi De La Protection Sociale Et De La Formation Professionnelle "
-74,"Ministere De La Promotion De La Femme, De La Famille Et De La Protection De L'enfant "
-81,Ministere Des Travaux Publics Et De L'entretien Routier 
-84,Ministere De L'environnement Et Du Development Durable 
-86,Ministere Du Development De L'energie Et Des Ressources Hydrauliques 
+60,Ministere De La Sante Et De La Population
+72,Ministere De L'action Humanitaire Et De La Reconciliation Nationale
+73,"Ministere DU Travail, De L'emploi De La Protection Sociale Et De La Formation Professionnelle"
+74,"Ministere De La Promotion De La Femme, De La Famille Et De La Protection De L'enfant"
+81,Ministere Des Travaux Publics Et De L'entretien Routier
+84,Ministere De L'environnement Et Du Development Durable
+86,Ministere Du Development De L'energie Et Des Ressources Hydrauliques
 88,Ministere Des Postes Et Telecommunication
-91,Ministere Du Commerce Et De L'industrie 
-93,Ministere De L'agriculture et du Development Rural 
-94,"Ministere Des Petites Et Moyennes Entreprises, De L'artisanat Et Du Secteur Informel "
-96,"Ministere Des Eaux, Forets, Chasse et Peche "
-97,Ministere De L'elevage et de la Sante Animale 
-98,"Ministere Des Arts, De La Culture Et Du Tourisme "
-99,Ministere Des Transports Et De L'aviation Civile 
-00,DEPENSES NON REPARTIES PAR CHAPITRES 
+91,Ministere Du Commerce Et De L'industrie
+93,Ministere De L'agriculture et du Development Rural
+94,"Ministere Des Petites Et Moyennes Entreprises, De L'artisanat Et Du Secteur Informel"
+96,"Ministere Des Eaux, Forets, Chasse et Peche"
+97,Ministere De L'elevage et de la Sante Animale
+98,"Ministere Des Arts, De La Culture Et Du Tourisme"
+99,Ministere Des Transports Et De L'aviation Civile
+00,DEPENSES NON REPARTIES PAR CHAPITRES

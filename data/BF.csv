@@ -1,46 +1,46 @@
-Code ,Name_fr,
-14,"Ministère de l'Economie, des Finances et du Développement",
-1,Présidence du Faso,
-2,Secrétariat Général du Gouvernement et du Conseil des Ministres,
-3,Primature,
-5,Conseil Economique et Social,
-9,Ministère Administration Territoriale Décentralisat  Cohésion Sociale,
-10,Ministère de la Justice,
-11,Ministère de la Défense Nationale et des Anciens Combattants,
-12,Ministère des Affaires Etrangères et de la Coopération,
-15,"Ministère de la Culture, des Arts et du Tourisme",
-17,"Ministère de la Fonction Publique, du Travail et de la Protection Social",e
-18,Ministère de la Communication et des Relations avec le Parlement,
-20,Ministère des Sports et des Loisirs,
-21,Ministère de la  Santé,
-22,Ministère de la Femme Solidarité Nationale Famille Action Humanitaire,
-23,Ministère Education Nationale Alphabétisation  Promotion Langues Nationa,les
-24,"Ministère de l'Enseignement Supérieur, de la Recherche Scientifique et d",e l'Innovation
-25,"Ministère du Commerce, de l'Industrie et de l'Artisanat",
-26,Ministère des Mines et des Carrières,
-27,Ministère de l'Agriculture et des Aménagements Hydro-agricoles,
-28,Ministère des Ressources Animales et Halieutiques,
-29,"Ministère de l'Environnement, de l'Economie verte et du Changement Clima",tique
-30,Ministère des Infrastructures,
-31,Ministère du Développement de l'Economie Numérique et des Postes,
-32,"Ministère des Transports, de la Mobilité Urbaine et de la Sécurité Routi",ère
-37,Ministère de la Jeunesse et de la Promotion de l'Entrepreneuriat des Jeu,nes
-38,Ministère de l'Urbanisme et de l'Habitat,
-42,Ministère de l'Eau et de l'Assainissement,
-50,Grande Chancellerie,
-51,Conseil Supérieur de la Communication,
-52,Autorité Supérieure de Contrôle d'Etat et de Lutte contre la Corruption,
-54,Conseil Constitutionnel,
-55,Conseil d'Etat,
-56,Cour des Comptes,
-57,Cour de Cassation,
-99,Dépenses Communes Interministérielles,
-43,Ministère de l'Energie,
-13,Ministère de la Sécurité,
-58,Commission Electorale Nationale Indépendante,
-59,Commission de l'Informatique et des Libertés,
-60,Médiateur du Faso,
-98,Transferts des Ressources aux Collectivités Territoriales,
-4,Parlement,
-8,Ministère de l'Intégration Africaine et des Burkinabè de l'Extérieur,
-35,Ministère des Droits Humains et de la Promotion Civique,
+code,name_fr
+14,"MinistÃ¨re de l'Economie, des Finances et du DÃ©veloppement"
+01,PrÃ©sidence du Faso
+02,SecrÃ©tariat GÃ©nÃ©ral du Gouvernement et du Conseil des Ministres
+03,Primature
+05,Conseil Economique et Social
+09,MinistÃ¨re Administration Territoriale DÃ©centralisat  CohÃ©sion Sociale
+10,MinistÃ¨re de la Justice
+11,MinistÃ¨re de la DÃ©fense Nationale et des Anciens Combattants
+12,MinistÃ¨re des Affaires EtrangÃ¨res et de la CoopÃ©ration
+15,"MinistÃ¨re de la Culture, des Arts et du Tourisme"
+17,"MinistÃ¨re de la Fonction Publique, du Travail et de la Protection Social"
+18,MinistÃ¨re de la Communication et des Relations avec le Parlement
+20,MinistÃ¨re des Sports et des Loisirs
+21,MinistÃ¨re de la  SantÃ©
+22,MinistÃ¨re de la Femme SolidaritÃ© Nationale Famille Action Humanitaire
+23,MinistÃ¨re Education Nationale AlphabÃ©tisation  Promotion Langues Nationa
+24,"MinistÃ¨re de l'Enseignement SupÃ©rieur, de la Recherche Scientifique et d"
+25,"MinistÃ¨re du Commerce, de l'Industrie et de l'Artisanat"
+26,MinistÃ¨re des Mines et des CarriÃ¨res
+27,MinistÃ¨re de l'Agriculture et des AmÃ©nagements Hydro-agricoles
+28,MinistÃ¨re des Ressources Animales et Halieutiques
+29,"MinistÃ¨re de l'Environnement, de l'Economie verte et du Changement Clima"
+30,MinistÃ¨re des Infrastructures
+31,MinistÃ¨re du DÃ©veloppement de l'Economie NumÃ©rique et des Postes
+32,"MinistÃ¨re des Transports, de la MobilitÃ© Urbaine et de la SÃ©curitÃ© Routi"
+37,MinistÃ¨re de la Jeunesse et de la Promotion de l'Entrepreneuriat des Jeu
+38,MinistÃ¨re de l'Urbanisme et de l'Habitat
+42,MinistÃ¨re de l'Eau et de l'Assainissement
+50,Grande Chancellerie
+51,Conseil SupÃ©rieur de la Communication
+52,AutoritÃ© SupÃ©rieure de ContrÃ´le d'Etat et de Lutte contre la Corruption
+54,Conseil Constitutionnel
+55,Conseil d'Etat
+56,Cour des Comptes
+57,Cour de Cassation
+99,DÃ©penses Communes InterministÃ©rielles
+43,MinistÃ¨re de l'Energie
+13,MinistÃ¨re de la SÃ©curitÃ©
+58,Commission Electorale Nationale IndÃ©pendante
+59,Commission de l'Informatique et des LibertÃ©s
+60,MÃ©diateur du Faso
+98,Transferts des Ressources aux CollectivitÃ©s Territoriales
+04,Parlement
+08,MinistÃ¨re de l'IntÃ©gration Africaine et des BurkinabÃ¨ de l'ExtÃ©rieur
+35,MinistÃ¨re des Droits Humains et de la Promotion Civique
