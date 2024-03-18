@@ -1,453 +1,127 @@
-code ,name_en ,,,,,,,,,
-110,Ministry of Agriculture,,,,,,,,,
-119,Ministry of Livestock Development,,,,,,,,,
-122,Ministry of Cooperative Development and Marketing,,,,,,,,, 
-131,Ministry of Education,,,,,,,,,
-111,Ministry of Medical Services,,,,,,,,,
-151,Pensions and Gratuities (CFS),,,,,,,,,
-150,Public Debt (CFS),,,,,,,,,
-105,Office of the Vice President and Ministry of Home Affairs,,,,,,,,,
-101,Ministry of State for Provincial Administration and Internal Security,,,,,,,,,
-102,State House,,,,,,,,,
-103,Ministry of State for Public Service,,,,,,,,,
-107,Ministry of Finance,,,,,,,,,
-121,Ministry of Environment and Mineral Resources,,,,,,,,,
-116,Ministry of Trade,,,,,,,,,
-104,Ministry of Foreign Affairs,,,,,,,,,
-106,"Ministry of State for Planning, National Development and Vision 2030",,,,,,,,,
-109,Ministry of Regional Development Authorities,,,,,,,,,
-112,Office of the Deputy Prime Minister and Ministry of Local Government,,,,,,,,,
-117,"Ministry of Justice, National Cohesion and Constitutional Affairs",,,,,,,,,
-118,"Ministry of Gender, Children and Social Development",,,,,,,,,
-125,State Law Office,,,,,,,,,
-126,The Judiciary,,,,,,,,,
-132,Ministry of lnformation and Communications,,,,,,,,,
-136,Ministry of Lands,,,,,,,,,
-146,Ministry of Tourism,,,,,,,,,
-115,Ministry of Labour,,,,,,,,,
-124,Ministry of East African Community,,,,,,,,,
-207,Public Service Commission,,,,,,,,,
-211,Auditor-General,,,,,,,,,
-204,Parliamentary Service Commission,,,,,,,,,
-203,Independent Electoral and Boundaries Commission,,,,,,,,,
-113,Ministry of Roads,,,,,,,,,
-114,Ministry of Transport,,,,,,,,,
-130,Ministry of Energy,,,,,,,,,
-120,Ministry of Water and Irrigation,,,,,,,,,
-108,Ministry of State for Defence,,,,,,,,,
-145,National Security Intelligence Service,,,,,,,,,
-001,Makadara,,,,,,,,,
-002,Kamukunji,,,,,,,,,
-003,Starehe,,,,,,,,,
-004,Langata,,,,,,,,,
-005,Dagoretti,,,,,,,,,
-006,Westlands,,,,,,,,,
-007,Kasarani,,,,,,,,,
-008,Embakasi,,,,,,,,,
-009,Changamwe,,,,,,,,,
-010,Kisauni,,,,,,,,,
-011,Likoni,,,,,,,,,
-012,Mvita,,,,,,,,,
-013,Msambweni,,,,,,,,,
-014,Matuga,,,,,,,,,
-015,Kinango,,,,,,,,,
-016,Bahari,,,,,,,,,
-017,Kaloleni,,,,,,,,,
-018,Ganze,,,,,,,,,
-019,Malindi,,,,,,,,,
-020,Magarini,,,,,,,,,
-021,Garsen,,,,,,,,,
-022,Galole,,,,,,,,,
-023,Bura,,,,,,,,,
-024,Lamu East,,,,,,,,,
-025,Lamu West,,,,,,,,,
-026,Taveta,,,,,,,,,
-027,Wundanyi,,,,,,,,,
-028,Mwatate,,,,,,,,,
-029,Voi,,,,,,,,,
-030,Dujis,,,,,,,,,
-031,Lagdera,,,,,,,,,
-032,Fafi,,,,,,,,,
-033,Ijara,,,,,,,,,
-034,Wajir North,,,,,,,,,
-035,Wajir West,,,,,,,,,
-036,Wajir East,,,,,,,,,
-037,Wajir South,,,,,,,,,
-038,Mandera West,,,,,,,,,
-039,Mandera Central,,,,,,,,,
-040,Mandera East,,,,,,,,,
-041,Moyale,,,,,,,,,
-042,North Horr,,,,,,,,,
-043,Saku,,,,,,,,,
-044,Laisamis,,,,,,,,,
-045,Isiolo North,,,,,,,,,
-046,Isiolo South,,,,,,,,,
-047,Igembe,,,,,,,,,
-048,Ntonyiri,,,,,,,,,
-049,Tigania West,,,,,,,,,
-050,TIGANIA EAST,,,,,,,,,
-051,North Imenti,,,,,,,,,
-052,Central Imenti,,,,,,,,,
-053,South Imenti,,,,,,,,,
-054,Nithi,,,,,,,,,
-055,Tharaka,,,,,,,,,
-056,Manyatta,,,,,,,,,
-057,Runyenjes,,,,,,,,,
-058,Gachoka,,,,,,,,,
-059,Siakago,,,,,,,,,
-060,Mwingi North,,,,,,,,,
-061,Mwingi South,,,,,,,,,
-062,Kitui West,,,,,,,,,
-063,Kitui Central,,,,,,,,,
-064,Mutito,,,,,,,,,
-065,Kitui South,,,,,,,,,
-066,Masinga,,,,,,,,,
-067,Yatta,,,,,,,,,
-068,Kangundo,,,,,,,,,
-069,Kathiani,,,,,,,,,
-070,Machakos Town,,,,,,,,,
-071,Mwala,,,,,,,,,
-072,Mbooni,,,,,,,,,
-073,Kilome,,,,,,,,,
-074,Kaiti,,,,,,,,,
-075,MAKUENI,,,,,,,,,
-076,Kibwezi,,,,,,,,,
-077,Kinangop,,,,,,,,,
-078,Kipipiri,,,,,,,,,
-079,Ol’kalou,,,,,,,,,
-080,Ndaragwa,,,,,,,,,
-081,Tetu,,,,,,,,,
-082,Kieni,,,,,,,,,
-083,Mathira,,,,,,,,,
-084,Othaya,,,,,,,,,
-085,Mukurweini,,,,,,,,,
-086,Nyeri Town,,,,,,,,,
-087,Mwea,,,,,,,,,
-088,Gichugu,,,,,,,,,
-089,Ndia,,,,,,,,,
-090,Kerugoya Kutus,,,,,,,,,
-091,Kangema,,,,,,,,,
-092,Mathioya,,,,,,,,,
-093,Kiharu,,,,,,,,,
-094,Kigumo,,,,,,,,,
-095,Maragwa,,,,,,,,,
-096,Kandara,,,,,,,,,
-097,Gatanga,,,,,,,,,
-098,Gatundu South,,,,,,,,,
-099,Gatundu North,,,,,,,,,
-100,Juja,,,,,,,,,
-101,Githunguri,,,,,,,,,
-102,Kiambaa,,,,,,,,,
-103,Kabete,,,,,,,,,
-104,Limuru,,,,,,,,,
-105,Lari,,,,,,,,,
-106,Turkana North,,,,,,,,,
-107,Turkana Central,,,,,,,,,
-108,Turkana South,,,,,,,,,
-109,Kacheliba,,,,,,,,,
-110,Kapenguria,,,,,,,,,
-111,Sigor,,,,,,,,,
-112,Samburu West,,,,,,,,,
-113,Samburu East,,,,,,,,,
-114,Kwanza,,,,,,,,,
-115,Saboti,,,,,,,,,
-116,Cherangany,,,,,,,,,
-117,Eldoret North,,,,,,,,,
-118,Eldoret East,,,,,,,,,
-119,Eldoret South,,,,,,,,,
-120,Marakwet East,,,,,,,,,
-121,Marakwet West,,,,,,,,,
-122,Keiyo North,,,,,,,,,
-123,Keiyo South,,,,,,,,,
-124,Mosop,,,,,,,,,
-125,Aldai,,,,,,,,,
-126,Emgwen,,,,,,,,,
-127,Tinderet,,,,,,,,,
-128,Baringo East,,,,,,,,,
-129,Baringo North,,,,,,,,,
-130,Baringo Central,,,,,,,,,
-131,Mogotio,,,,,,,,,
-132,Eldama Ravine,,,,,,,,,
-133,Laikipia West,,,,,,,,,
-134,Laikipia East,,,,,,,,,
-135,Naivasha,,,,,,,,,
-136,Nakuru Town,,,,,,,,,
-137,KURESOI,,,,,,,,,
-138,Molo,,,,,,,,,
-139,Rongai,,,,,,,,,
-140,Subukia,,,,,,,,,
-141,Kilgoris,,,,,,,,,
-142,Narok North,,,,,,,,,
-143,Narok South,,,,,,,,,
-144,Kajiado North,,,,,,,,,
-145,Kajiado Central,,,,,,,,,
-146,Kajiado South,,,,,,,,,
-147,Bomet,,,,,,,,,
-148,Chepalungu,,,,,,,,,
-149,Sotik,,,,,,,,,
-150,Konoin,,,,,,,,,
-151,Buret,,,,,,,,,
-152,Belgut,,,,,,,,,
-153,Ainamoi,,,,,,,,,
-154,Kipkelion,,,,,,,,,
-155,Malava,,,,,,,,,
-156,Lugari,,,,,,,,,
-157,Mumias,,,,,,,,,
-158,Matungu,,,,,,,,,
-159,Lurambi,,,,,,,,,
-160,Shinyalu,,,,,,,,,
-161,Ikolomani,,,,,,,,,
-162,Butere,,,,,,,,,
-163,Khwisero,,,,,,,,,
-164,Emuhaya,,,,,,,,,
-165,Sabatia,,,,,,,,,
-166,VIHIGA,,,,,,,,,
-167,Hamisi,,,,,,,,,
-168,Mt Elgon,,,,,,,,,
-169,Kimilili,,,,,,,,,
-170,Webuye,,,,,,,,,
-171,Sirisia,,,,,,,,,
-172,Kanduyi,,,,,,,,,
-173,Bumula,,,,,,,,,
-174,Amagoro,,,,,,,,,
-175,Nambale,,,,,,,,,
-176,Butula,,,,,,,,,
-177,Funyula,,,,,,,,,
-178,Budalangi,,,,,,,,,
-179,Ugenya,,,,,,,,,
-180,Alego Usonga,,,,,,,,,
-181,Gem,,,,,,,,,
-182,Bondo,,,,,,,,,
-183,Rarieda,,,,,,,,,
-184,Kisumu Town east,,,,,,,,,
-185,Kisumu Town West,,,,,,,,,
-186,Kisumu Rural,,,,,,,,,
-187,Nyando,,,,,,,,,
-188,Muhoroni,,,,,,,,,
-189,Nyakach,,,,,,,,,
-190,Kasipul Kabondo,,,,,,,,,
-191,Karachuonyo,,,,,,,,,
-192,Rangwe,,,,,,,,,
-193,Ndhiwa,,,,,,,,,
-194,Rongo,,,,,,,,,
-195,Migori,,,,,,,,,
-196,Uriri,,,,,,,,,
-197,Nyatike,,,,,,,,,
-198,Mbita,,,,,,,,,
-199,Gwassi,,,,,,,,,
-200,Kuria,,,,,,,,,
-201,Bonchari,,,,,,,,,
-202,South Mugirango,,,,,,,,,
-203,Bomachoge,,,,,,,,,
-204,Bobasi,,,,,,,,,
-205,Nyaribari Masaba,,,,,,,,,
-206,Nyaribari Chache,,,,,,,,,
-207,Kitutu Chache,,,,,,,,,
-208,Kitutu Masaba,,,,,,,,,
-209,West Mugirango,,,,,,,,,
-210,northmugirango Borabu,,,,,,,,,
-016,Baringo County Council,,,,,,,,,
-021,Bomet County Council,,,,,,,,,
-026,Bomet Municipal Council,,,,,,,,,
-031,Bondo County Council,,,,,,,,,
-036,Bondo Town Council,,,,,,,,,
-041,Bungoma County Council,,,,,,,,,
-046,Bungoma Municipal Council,,,,,,,,,
-051,Bureti County Council,,,,,,,,,
-056,Burnt Forest Town Council,,,,,,,,,
-061,Busia County Council,,,,,,,,,
-066,Busia Municipal Council,,,,,,,,,
-081,Chogoria Town Council,,,,,,,,,
-086,Chuka Town Council,,,,,,,,,
-091,Eldama Ravine Town Council,,,,,,,,,
-096,Eldoret Municipal Council,,,,,,,,,
-101,Embu County Council,,,,,,,,,
-106,Embu Municipal Council,,,,,,,,,
-111,Funyula Town Council,,,,,,,,,
-116,Garissa County Council,,,,,,,,,
-126,Gucha County Council,,,,,,,,,
-136,Homa Bay County Council,,,,,,,,,
-141,Homa Bay Municipal Council,,,,,,,,,
-146,Isiolo County Council,,,,,,,,,
-151,Iten-Tambach Town Council,,,,,,,,,
-156,Kabarnet Municipal Council,,,,,,,,,
-161,Kajiado Town Council,,,,,,,,,
-166,Kakamega County Council,,,,,,,,,
-171,Kakamega Municipal Council,,,,,,,,,
-186,Kangundo Town Council,,,,,,,,,
-191,Kapenguria Municipal Council,,,,,,,,,
-196,Kapsabet Municipal Council,,,,,,,,,
-216,Keiyo County Council,,,,,,,,,
-226,Kericho Municipal Council,,,,,,,,,
-241,Kiambu County Council,,,,,,,,,
-256,Kilifi County Council,,,,,,,,,
-261,Kilifi Town Council,,,,,,,,,
-271,Kipkelion Town Council,,,,,,,,,
-276,Kipsigis County Council,,,,,,,,,
-281,Kirinyaga County Council,,,,,,,,,
-286,Kisii Municipal Council,,,,,,,,,
-296,Kisumu Municipal Council,,,,,,,,,
-306,Kitui County Council,,,,,,,,,
-316,Koibatek County Council,,,,,,,,,
-321,Kwale County Council,,,,,,,,,
-331,Laikipia County Council,,,,,,,,,
-336,Lamu County Council,,,,,,,,,
-341,Limuru Municipal Council,,,,,,,,,
-346,Litein Town Council,,,,,,,,,
-356,Londiani Town Council,,,,,,,,,
-361,Luanda Town Council,,,,,,,,,
-366,Lugari County Council,,,,,,,,,
-371,Machakos Municipal Council,,,,,,,,,
-376,Makueni County Council,,,,,,,,,
-381,Makuyu Town Council,,,,,,,,,
-386,Malaba Town Council,,,,,,,,,
-391,Malakisi Town Council,,,,,,,,,
-401,Malindi County Council,,,,,,,,,
-411,Mandera County Council,,,,,,,,,
-416,Mandera Town Council,,,,,,,,,
-421,Maragwa County Council,,,,,,,,,
-436,Maralal Town Council,,,,,,,,,
-441,Mariakani Town Council,,,,,,,,,
-446,Marsabit County Council,,,,,,,,,
-451,Masaku County Council,,,,,,,,,
-461,Matuu Town Council,,,,,,,,,
-476,Mbeere County Council,,,,,,,,,
-481,Mbita Point Town Council,,,,,,,,,
-486,Meru County Council,,,,,,,,,
-496,Meru South County Council,,,,,,,,,
-501,Migori County Council,,,,,,,,,
-506,Migori Municipal Council,,,,,,,,,
-511,Molo Town Council,,,,,,,,,
-516,Mombasa Municipal Council,,,,,,,,,
-526,Moyale County Council,,,,,,,,,
-531,Mtito Andei Town Council,,,,,,,,,
-541,Mumias Municipal Council,,,,,,,,,
-551,Murang`a Municipal Council,,,,,,,,,
-556,Mwingi County Council,,,,,,,,,
-561,Mwingi Town Council,,,,,,,,,
-566,Naivasha Municipal Council,,,,,,,,,
-581,Nambale Town Council,,,,,,,,,
-586,Nandi County Council,,,,,,,,,
-591,Nandi-Hills Town Council,,,,,,,,,
-601,Narok County Council,,,,,,,,,
-606,Narok Town Council,,,,,,,,,
-616,Nyahururu Municipal Council,,,,,,,,,
-636,Nyamira County Council,,,,,,,,,
-646,Nyandarua County Council,,,,,,,,,
-656,Nyansiongo Town Council,,,,,,,,,
-661,Nyeri County Council,,,,,,,,,
-671,Nzoia County Council,,,,,,,,,
-681,Ol`Kalou Town Council,,,,,,,,,
-686,Olkejuado County Council,,,,,,,,,
-691,Othaya Town Council,,,,,,,,,
-701,Pokot County Council,,,,,,,,,
-716,Rongo Town Council,,,,,,,,,
-721,Ruiru Municipal Council,,,,,,,,,
-726,Rumuruti Town Council,,,,,,,,,
-731,Runyenjes Municipal Council,,,,,,,,,
-741,Samburu County Council,,,,,,,,,
-746,Siaya County Council,,,,,,,,,
-751,Siaya Municipal Council,,,,,,,,,
-761,Sotik Town Council,,,,,,,,,
-766,Suba County Council,,,,,,,,,
-776,Tabaka Town Council,,,,,,,,,
-781,Taita Taveta County Council,,,,,,,,,
-786,Tana River County Council,,,,,,,,,
-791,Taveta Town Council,,,,,,,,,
-796,Teso County Council,,,,,,,,,
-806,Thika County Council,,,,,,,,,
-811,Thika Municipal Council,,,,,,,,,
-816,Trans Mara County Council,,,,,,,,,
-821,Turkana County Council,,,,,,,,,
-831,Ukwala Town Council,,,,,,,,,
-836,Vihiga County Council,,,,,,,,,
-851,Wajir County Council,,,,,,,,,
-856,Wareng County Council,,,,,,,,,
-861,Webuye Municipal Council,,,,,,,,,
-866,Wote Town Council,,,,,,,,,
-871,Yala Town Council,,,,,,,,,
-001,Nairobi City Council,,,,,,,,,
-006,Ahero Town Council,,,,,,,,,
-011,Awendo Town Council,,,,,,,,,
-176,Kandara Town Council,,,,,,,,,
-221,Kendu Bay Town Council,,,,,,,,,
-246,Kiambu Municipal Council,,,,,,,,,
-291,Kisumu County Council,,,,,,,,,
-311,Kitui Municipal Council,,,,,,,,,
-326,Kwale Town Council,,,,,,,,,
-406,Malindi Municipal Council,,,,,,,,,
-431,Marakwet County Council,,,,,,,,,
-491,Meru Municipal Council,,,,,,,,,
-546,Murang`a County Council,,,,,,,,,
-576,Nakuru Municipal Council,,,,,,,,,
-596,Nanyuki Municipal Council,,,,,,,,,
-626,Nyamarambe Town Council,,,,,,,,,
-641,Nyamira Town Council,,,,,,,,,
-651,Nyando County Council,,,,,,,,,
-711,Rachuonyo County Council,,,,,,,,,
-771,Suneka Town Council,,,,,,,,,
-846,Voi Municipal Council,,,,,,,,,
-071,Butere-Mumias County Council,,,,,,,,,
-076,Chepareria Town Council,,,,,,,,,
-121,Garissa Municipal Council,,,,,,,,,
-131,Gusii County Council,,,,,,,,,
-143,Ijara County Council,,,,,,,,,
-181,Kangema Town Council,,,,,,,,,
-201,Karatina Municipal Council,,,,,,,,,
-206,Karuri Town Council,,,,,,,,,
-211,Kehancha Municipal Council,,,,,,,,,
-231,Keroka Town Council,,,,,,,,,
-236,Kerugoya/Kutus Municipal Council,,,,,,,,,
-251,Kikuyu Town Council,,,,,,,,,
-266,Kimilili Municipal Council,,,,,,,,,
-301,Kitale Municipal Council,,,,,,,,,
-351,Lodwar Municipal Council,,,,,,,,,
-396,Malava Town Council,,,,,,,,,
-426,Maragwa Town Council,,,,,,,,,
-456,Masimba Town Council,,,,,,,,,
-466,Maua Municipal Council,,,,,,,,,
-471,Mavoko Municipal Council,,,,,,,,,
-521,Mt Elgon County Council,,,,,,,,,
-536,Muhoroni Town Council,,,,,,,,,
-571,Nakuru County Council,,,,,,,,,
-621,Nyamache Town Council,,,,,,,,,
-631,Nyambene County Council,,,,,,,,,
-667,Nyeri Municipal Council,,,,,,,,,
-676,Ogembo Town Council,,,,,,,,,
-696,Oyugis Town Council,,,,,,,,,
-706,Port Victoria Town Council,,,,,,,,,
-736,Sagana Town Council,,,,,,,,,
-756,Sirisia Town Council,,,,,,,,,
-801,Tharaka County Council,,,,,,,,,
-826,Ugunja Town Council,,,,,,,,,
-841,Vihiga Municipal Council,,,,,,,,,
-135,Ministry of State for Special Programmes,,,,,,,,,
-123,Cabinet Office,,,,,,,,,
-140,Ministry of State for Immigration and Registration of Persons,,,,,,,,,
-141,Ministry of State for National Heritage and Culture,,,,,,,,,
-142,Ministry of Youth Affairs and Sports,,,,,,,,,
-143,"Ministry of Higher Education, Science and Technology",,,,,,,,,
-144,Ministry of Housing,,,,,,,,,
-156,Ministry of Fisheries Development,,,,,,,,,
-149,Ministry of Public Health and Sanitation,,,,,,,,,
-148,Office of the Prime Minister,,,,,,,,,
-155,Ministry of Forestry and Wildlife,,,,,,,,,
-158,Ministry of Development of Northern Kenya and Other Arid Lands,,,,,,,,,
-160,Ministry of Industrialization,,,,,,,,,
-157,Ministry of Nairobi Metropolitan Development,,,,,,,,,
-159,Ministry of Public Works,,,,,,,,,
-161,Interim Independent Boundaries Review Commission,,,,,,,,,
-134,Ethics and Anti-Corruption Commission,,,,,,,,,
-206,Commission on Revenue Allocation,,,,,,,,,
-163,Directorate of Public Prosecution,,,,,,,,,
-164,Human Rights and Equality Commission,,,,,,,,,
-165,Commission for the Implementation of the Constitution,,,,,,,,,
-210,National Police Service Commission,,,,,,,,,
-168,Registrar of Political Parties,,,,,,,,,
-169,Witness Protection Agency,,,,,,,,,
-201,Kenya National Human Rights and Equality Commission,,,,,,,,,
-208,Salaries and Remuneration Commission,,,,,,,,,
-209,Teachers Service Commission,,,,,,,,,
-212,Controller of Budget,,,,,,,,,
-213,The Commission on Administrative Justice,,,,,,,,,
-214,National Gender and Equality Commission,,,,,,,,,
+code ,name_en 
+101,The Presidency
+1011,Office of the Deputy President.
+102,Ministry of Interior and Coordination of National Government
+1021,State Department for Interior
+1022,State Department for Coordination of National Government.
+1023,State Department For Correctional Services
+1024,State Department for Immigration and Citizen Services
+103,Ministry of Devolution and Planning
+1032,State Department for Devolution
+1033,State Department For Special Programmes
+1034,State Department For Planning And Statistics
+1035,State Department for Development of the ASAL
+104,Ministry of Defence
+1041,Ministry of Defence
+105,Ministry of Foreign Affairs and International Trade
+1052,Ministry Of Foreign Affairs
+106,"Ministry of Education, Science and Technology"
+1063,State Department For Basic Education
+1064,State Department For Vocational And Technical Training
+1065,State Department For University Education
+1066,State Department for Early Learning & Basic Education
+1068,State Department for Agricultural Research
+107,The National Treasury
+1071,The National Treasury
+1072,State Department for Planning
+108,Ministry of Health
+1081,Ministry of Health
+109,Ministry of Transport and Infrastructure
+1091,State department of Infrastructure
+1092,State Department of Transport
+1093,State Department For Maritime And Shipping Affairs
+1094,State Department For Housing & Urban Development
+1095,State Department For Public Works
+1096,"State Department for Housing, Urban Development and Public Works"
+110,"Ministry of Environm,ent, Water and Natural Resources"
+1103,State Department For Water Services
+1107,Ministry of Water Sanitation and Irrigation
+1108,Ministry of Environment and Forestry
+1109,Ministry of Water & Sanitation and Irrigation
+111,Ministry of Land Housing and Urban Development
+1112,Ministry Of Lands And Physical Planning
+112,"Ministry of Information, Communications and Technology"
+1121,"Ministry of Information, Communications and Technology"
+1122,State Department For Information Communication And Technology & Innovation
+1123,State Department For Broadcasting & Telecommunications
+113,Ministry of Sports Culture and Arts
+1132,State Department For Sports Development
+1134,State Department for Culture and Heritage
+115,Ministry of Energy and Petroleum
+1152,State Department Of Energy
+116,"Ministry of Agriculture, Livestock and Fisheries"
+1161,State Department for Agriculture
+1162,State Department for Livestock
+1165,State Department for Crop Development
+1166,"State Department for Fisheries, Aquaculture & the Blue Economy"
+1167,State Department for Irrigation
+1168,State Department for Agricultural Research
+1169,State Department for Crop Development & Agricultural Research
+117,Ministry of Industrialization and Enterprise Development
+1173,State Department For Cooperatives
+1174,State Department For Trade
+1175,State Department for Industrialization
+118,"Ministry of East African Affairs, Commerce and Tourism"
+1184,State Department For Labour
+1185,State Department For Social Protection
+119,Ministry of Mining
+1191,Ministry of Mining
+1192,State Department for Mining
+1193,State Department for Petroleum
+120,Ministry of Tourism
+1202,State Department for Tourism
+1203,State Department for Wildlife
+121,"State Department for Public Service, Youth Affairs, & Gender"
+1211,State Department Of Public Service And Youth Affairs
+1212,State Department For Gender
+1213,State Department for Public Service
+1214,State Department for Youth Affairs
+122,Ministry of EAC and Regional Development
+1221,State Department for for East African Community
+1222,State Department for Regional and Nothern Corridor Development
+125,Office of The Attorney General and Department of Jusitice
+1252,State Law Office And Department Of Justice
+126,The Judiciary
+1261,The Judiciary
+127,Ethics and Anti-Corruption Commission
+1271,Ethics and Anti-Corruption Commission
+128,National Intelligence Service
+1281,National Intelligence Service
+129,Office of the Director of Public Prosecutions
+1291,Office of the Director of Public Prosecutions
+131,Registrar of Political Parties
+1311,Registrar of Political Parties
+132,Witness Protection Agency
+1320,Witness Protection Agency
+201,Kenya National Commission on Human Rights
+2011,Kenya National Commission on Human Rights
+202,National Land Commission
+2021,National Land Commission
+203,Independent Electoral and Boundaries Commission
+2031,Independent Electoral and Boundaries Commission
+204,Parliamentary Service Commission
+2041,Parliamentary Service Commission
+2042,National Assembly
+2043,Parliamentary Joint Services
+205,Judicial Service Commission
+2051,Judicial Service Commission
+206,The Commission on Revenue Allocation
+2061,The Commission on Revenue Allocation
+207,Public Service Commission
+2071,Public Service Commission
+208,Salaries and Remuneration Commission
+2081,Salaries and Remuneration Commission
+209,Teachers Service Commission
+2091,Teachers Service Commission
+210,National Police Service Commission
+2101,National Police Service Commission
+211,Auditor-General
+2111,Auditor-General
+212,Controller of Budget
+2121,Controller of Budget
+213,The Commission on Administrative Justice
+2131,The Commission on Administrative Justice
+214,National Gender and Equality Commission
+2141,National Gender and Equality Commission
+215,Independent Police Oversight Authority
+2151,Independent Police Oversight Authority
