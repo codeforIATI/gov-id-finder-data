@@ -1,68 +1,64 @@
 code,name_en
-1,Office of Government Machinery 
-2,Office of the Head of Civil Service 
-3,Parliament of Ghana 
-4,Audit Service 
-5,Public Services Commission 
-6,Electoral Commission 
-7,Ministry of Foreign Affairs and Regional Integration 
-8,Ministry of Finance 
-9,"Ministry of Local Government, Decentralisation and Rural Development "
-10,National Media Commission 
-11,National Development Planning Commission 
-12,Ministry of Information 
-13,Right to Information Commission 
-14,Ministry of Parliamentary Affairs 
-15,Ministry of Food and Agriculture 
-16,Ministry of Fisheries and Aquaculture Development 
-17,Ministry of Lands and Natural Resources 
-18,Ministry of Trade and Industry 
-19,"Ministry of Tourism, Arts and Culture "
-20,"Ministry of Environment, Science, Tech. and Innovation "
-21,Ministry of Energy 
-22,Ministry of Sanitation and Water Resources 
-23,Ministry of Works and Housing 
-24,Ministry of Roads and Highways 
-25,Ministry of Communications and Digitalisation 
-26,Ministry of Railways Development 
-27,Ministry of Transport 
-28,Ministry of Education 
-29,Ministry of Employment and Labour Relations 
-30,Ministry of Youth and Sports 
-31,National Commission for Civic Education 
-32,Ministry of Chieftaincy and Religious Affairs 
-33,Ministry of Health 
-34,"Ministry of Gender, Children and Social Protection "
-35,National labour Commission 
-36,Office of the Attorney-General and Ministry of Justice 
-37,Office of the Legal Aid Commission 
-38,Ministry of Defense 
-39,Commission on Human Rights and Administrative Justice 
-40,Judicial Service 
-41,Ministry of the Interior 
-42,Ministry of National Security 
-43,Office of the Speacial Prosecutor 
-44,General Government Services 
-45,GhanaCARES 
-46,YouStart 
-47,e-Transaction Levy Services 
-48,Agenda 111
-49,Subscription 
-50,Contingency Vote 
-51,Pensions 
-52,Gratuities 
-53,Social Security 
-54,Interest Payments 
-55,Subsidied on Petroleum Products 
-56,National Health Fund
-57,Education Trust Fund 
-58,Road Fund 
-59,Petroleum Related Funds 
-60,Dist. Ass. Common Fund 
-61,Ghana Infrastructure Fund (ABFA Capex)
-62,Transfer to GNPC from Oil Revenue 
-63,Other Earmarked Funds 
-64,Social Benefits (Lifeline Consumers of Electricity) 
-65,Other Expenditures 
-66,Arrears Clearance (net change)
-67,Amortisation 
+001,Office of Government Machinery
+002,Office of the Head of Civil Service
+003,Parliament of Ghana
+005,Audit Service
+006,Public Services Commission (PSC)
+008,Electoral Commission
+009,Ministry of Foreign Affairs and Regional Integration
+010,Ministry of Finance (MoF)
+011,"Ministry of Local Government, Decentralisation and Rural Development"
+030,National Media Commission (NMC)
+031,Ministry of Information
+039,National Development Planning Commission
+044,Ghana Revenue Authority (GRA)
+047,Ministry of Parliamentary Affairs (MoPA)
+082,Right to Information Commission
+012,Ministry of Food and Agriculture (MoFA)
+013,Ministry of Lands and Natural Resources (MLNR)
+015,Ministry of Trade and Industry (MoTI)
+016,"Ministry of Tourism, Arts and Culture"
+017,"Ministry of Environment Science, Technology and Innovation"
+018,Ministry of Energy
+019,Ministry of Fisheries and Aquaculture Development
+021,Ministry of Works and Housing
+022,Ministry of Roads and Highways
+026,Ministry of Communications and Digitalisation
+043,Ministry of Transport
+048,Ministry of Railway Development
+049,Ministry of Sanitation and Water Resources
+023,Ministry of Education (MoE)
+024,Ministry of Employment and Labour Relations
+025,Ministry of Youth and Sports
+027,National Commission for Civic Education
+028,Ministry of Chieftaincy and Religious Affairs
+029,Ministry of Health
+032,"Ministry of Gender, Children and Social Protection"
+041,National Labour Commission
+083,National Pensions Regulatory Authority
+033,Office of the Attorney-General and Ministry of Justice
+034,Ministry of Defence
+035,Commission on Human Rights and Admin. Justice
+036,Judiciary and Judicial Service
+037,Ministry of the Interior
+038,Ministry of National Security
+081,Legal Aid Commission
+078,Office of the Special Prosecutor
+069,General Government Services
+072,Subscriptions
+074,Contingency
+050,Debt Management
+052,DACF
+053,GET Fund
+054,National Health Fund
+055,Pensions
+056,Gratuities
+057,Social Security
+059,Arrears
+061,Subsidies on Petroleum Products
+062,Lifeline consumers of electricity
+064,Petroleum Related Fund
+065,Transfer to Ghana National Petroleum
+066,Road Fund
+073,Ghana Infrastructure Investment Fund(
+075,Other Earmarked Funds
