@@ -1,63 +1,43 @@
 code ,name_fr
-210,"Economie, des Finances et la Planification du Développement"
 110,Assemblée Nationale
 120,Présidence de la République
+121,Ministère chargé de l'inclusion financière et de l'organisation du secteur informel
 130,Premier Ministère
-131,Délégué Dévéloppement à la Base
-132,Sécr. d'Etat Jeunesse et Emploi des Jeunes
+131,Secréteriat général du Gouvernement
 140,Cour Constitutionnelle
 150,Cour Suprême
-160,Médiature
+160,Médiature de la République
 170,Cour des Comptes
 180,Conseil Economique et Social
 190,Haute Autorité de l'Audiovisuel & de la Communication
-215,Dépenses communes de personnel
-220,"Planification, du Développement et de l'Aménagement du Territoire"
-221,Sécr. d'Etat Aménagement du Territoire
-230,"Ministère des Affaires Etrangères, de la Coopération et de l'intégration Africaine"
-310,Ministère de la Défense Nationale et des Anciens Combattants
-410,"Ministère de l'Administration territoriale, de la Décentralisation et des Collectivités locales"
-420,Ministère de la Justice et des relations avec les institutions de la République
-421,Conseil Supérieur de la Magistrature
-430,Ministère de la Sécurité et de la Protection Civile
-510,"Ministère de l'Enseignement Primaire, secondaire et de la Formation Professionnelle"
-520,Enseignement Technique et  de la  Formation Professionnelle
-530,Ministère de l'Enseignement Supérieur et de la Recherche
-610,Ministère de la Santé et de la Protection Sociale
-710,"Ministère de la Fonction Publique, du Travail et de la Réforme Administrative"
-720,"Ministère de la Communication, de la Culture, des Sports et de la Formation Civique"
-730,Sports et  Loisirs
-740,"Ministère de l'Action Sociale, de la Promotion de la Femme et de l'Alphabétisation"
-750,"Travail, Emploi et Sécurité Sociale"
-760,"Ministère de l'Urbanisme, de l'Habitat et du Cadre de Vie"
-810,"Agriculture, de l'Elevage et Hydraulique"
-820,"Commerce, de l'Industrie, de la Promotion du Secteur Privé et du Tourisme"
-830,Ministère des Infrastructures et des Transports
-840,Ministère des Mines et de l'Energie
-850,"Industrie, Zone Franche et des Innovations Technologiques"
-860,Ministère de l'Environnement et des Ressources Forestières
-870,Ministère des Postes et de l'Economie Numérique
-880,Tourisme
-920,"Droit de l'Homme, de la Consolidation de la Démocratie, Chargé de la mise en oeuvres des Recommandations de la CVJR"
-216,Dépenses communes de matériel
-217,Dépenses communes diverses
-811,Equipement Rural
-240,"Développement à la Base, de l'Artisanat, de la Jeunesse et de l'Emploi des Jeunes"
-770,Promotion de la Femme
-780,Arts et de la Culture
-812,Délégué chargé des Infrastructures Rurales
-890,Transports
-250,Prospective et Evaluation des Politiques Publiques
-422,Secrétariat d'Etat chargé des Realtions avec les Institutions de la République
-790,Ministère de la Reforme de l'Etat et de la Modernisation de l'Administration
-851,Secrétariat d'Etat chargé de l'Industrie
-211,Ministère Délégué chargé du Budget
 210,Ministère de l'Economie et des Finances
-220,Ministère  de la Planification du Développement
-520,"Ministère Délégué auprès du Ministre de l'Enseignement Primaire, Secondaire et de la Formation Professionnelle"
-820,Ministère du Commerce et  de la Promotion du Secteur Privé
-850,Industrie et Tourisme
-920,Secrétariat d' Etat chargé des Droits de l'Homme
-121,Secrétariat d'Etat chargé de l'inclusion financière et du secteur informel
-810,Ministère de l'Agriculture et de l'Elevage
-811,"Ministère de l'Eau, de l'Assainissement et de l'Hydraulique Villageoise"
+220,Ministère  de la Planification du Développement et de la coopération
+230,"Ministère des Affaires Etrangères, de l'intégration Africaine et des togolaise de l'extérieur"
+240,"Ministère du Développement à la Base, de la Jeunesse et de l'Emploi des Jeunes"
+310,Ministère des armées
+410,"Ministère de l'Administration territoriale, de la Décentralisation et des Collectivités locales"
+420,Ministère de la Justice et de la législation
+421,Conseil Supérieur de la Magistrature
+422,Secrétariat d'Etat chargé des Realtions avec les Institutions de la République
+430,Ministère de la Sécurité et de la Protection Civile
+510,"Ministère de l'Enseignement Primaire, secondaire et technique"
+530,Ministère de l'Enseignement Supérieur et de la Recherche
+610,Ministère de l'accès universel aux soins
+710,"Ministère de la Fonction Publique, du Travail et du dialogue social"
+720,Ministère de la Communication et des médias
+740,"Ministère de l'Action Sociale, de la Promotion de la Femme et de l'Alphabétisation"
+750,Ministère des sports et loisirs
+760,"Ministère de l'Urbanisme, de l'Habitat et de la réforme financière"
+810,"Ministère de l'Agriculture, de l'Elevage, et du développement rurale"
+811,Ministère de l'Eau et de l'Hydraulique Villageoise
+813,"Ministère de l'économie maritime, de la pêche et de la protection côtière"
+820,"Ministère du Commerce, de l'artisanat et de la consommation locale"
+821,Ministère de la promotion de l'investissement
+830,Ministère des travaux publics
+831,Ministère du désenclavement et des pistes rurales
+832,"Ministère des transports routiers, aérien et ferroviaire"
+840,Ministère délégué chargé de l'énergie et des mines
+850,Ministère de la culture et du tourisme
+860,Ministère de l'Environnement et des Ressources Forestières
+870,Ministère de l'économie numérique et de la transformation digitale
+920,"Ministère des droits de l'homme, de la formation à la citoyenneté et des relations avec les institutions de la Républiqe"
