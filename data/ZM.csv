@@ -1,62 +1,62 @@
-code ,name_en 
-01,Office of the President - State House
-02,Office of the Vice-President
-03,National Assembly
-04,Ministry of Gender
-05,Electoral Commission
-06,Civil Service Commission - Office of the President
-07,Office of the Auditor-General
-08,Cabinet Office - Office of the President
-09,Teaching Service Commission - Office of the President
-10,Zambia Police Service Commission
-11,Zambia Police - Ministry of Home Affairs
-12,Office of the Public Protector
-13,Ministry of Chiefs and Traditional Affairs
-14,Ministry of Mines and Minerals Development
-15,Ministry of Home Affairs
-16,Drug Enforcement Commission
-17,Ministry of Foreign Affairs
-18,Judiciary
-21,Loans and Investments
-25,Local Government Service Commission
-26,Ministry of Information and Broadcasting Services
-27,Public Service Management Division
-29,Ministry of Local Government
-31,Ministry of Justice
-32,Ministry of National Guidance and Religious Affairs
-33,"Ministry of Commerce, Trade and Industry"
-34,Human Rights Commission
-36,Zambia Correctional Service Commission
-37,Ministry of Finance
-38,Ministry of National Development Planning
-39,Smart Zambia Institute
-44,Ministry of Labour and Social Security
-46,Ministry of Health
-51,Ministry of Transport and Communication
-52,"Ministry of Water Development, Sanitation and Environmental Protection"
-54,Ministry of Housing and Infrastructure Development
-64,Ministry of Works and Supply
-68,Ministry of Tourism and Arts
-77,Ministry of Defence
-78,Zambia Security Intelligence Services - Office of the President
-86,Ministry of Fisheries and Livestock
-87,Anti-Corruption Commission
-88,Office of the President - Muchinga Province
-89,Ministry of Agriculture
-90,Office of the President - Lusaka Province
-91,Office of the President - Copperbelt Province
-92,Office of the President - Central Province
-93,Office of the President - Northern Province
-94,Office of the President - Western Province
-95,Office of the President - Eastern Province
-96,Office of the President - Luapula Province
-97,Office of the President - North-Western Province
-98,Office of the President - Southern Province
-99,Constitutional and Statutory Expenditure
-19,Disaster Management and Mitigation Unit
-45,Ministry of Community Development and Social Services
-62,Ministry of Energy
-65,Ministry of Higher Education
-76,"Ministry of Youth, Sport and Child Development"
-80,Ministry of General Education
-85,Ministry of Lands and Natural Resources
+code,name_en
+01,STATE HOUSE
+02,OFFICE OF THE VICE PRESIDENT
+03,NATIONAL ASSEMBLY
+05,ELECTORAL COMMISSION OF ZAMBIA
+06,CIVIL SERVICE COMMISSION
+07,OFFICE OF THE AUDITOR GENERAL
+08,CABINET OFFICE - OFFICE OF THE PRESIDENT
+09,TEACHING SERVICE COMMISSION  - OFFICE OF THE PRESIDENT
+10,ZAMBIA POLICE SERVICE COMMISSION
+11,ZAMBIA POLICE SERVICE
+12,OFFICE OF THE PUBLIC PROTECTOR
+14,MINISTRY OF MINES AND MINERALS DEVELOPMENT
+15,MINISTRY OF HOME AFFAIRS AND INTERNAL SECURITY
+16,DRUG ENFORCEMENT COMMISSION
+17,MINISTRY OF FOREIGN AFFAIRS AND INTERNATIONAL COOPERATION
+18,JUDICIARY
+19,DISASTER MANAGEMENT AND MITIGATION UNIT
+21,LOANS AND INVESTMENTS - MINISTRY OF FINANCE AND NATIONAL PLANNING
+23,MINISTRY OF HOME AFFAIRS AND INTERNAL SECURITY - NATIONAL IMMIGRATION SERVIC
+25,LOCAL GOVERNMENT SERVICE COMMISSION
+26,MINISTRY OF INFORMATION AND MEDIA
+27,PUBLIC SERVICE MANAGEMENT DIVISION
+28,EMOLUMENTS COMMISSION
+29,MINISTRY OF LOCAL GOVERNMENT AND RURAL DEVELOPMENT
+30,ZAMBIA CORRECTIONAL SERVICES
+31,MINISTRY OF JUSTICE
+33,"MINISTRY OF COMMERCE, TRADE AND INDUSTRY"
+34,HUMAN RIGHTS COMMISSION
+35,MINISTRY OF SMALL AND MEDIUM ENTERPRISE DEVELOPMENT
+36,ZAMBIA CORRECTIONAL SERVICE COMMISSION
+37,MINISTRY OF FINANCE AND NATIONAL PLANNING
+39,SMART ZAMBIA INSTITUTE
+44,MINISTRY OF LABOUR AND SOCIAL SECURITY
+45,MINISTRY OF COMMUNITY DEVELOPMENT AND SOCIAL SERVICES
+46,MINISTRY OF HEALTH
+51,MINISTRY OF TRANSPORT AND LOGISTICS
+52,MINISTRY OF WATER DEVELOPMENT AND SANITATION
+53,MINISTRY OF GREEN ECONOMY AND ENVIRONMENT
+54,"MINISTRY OF  INFRASTRUCTURE, HOUSING AND URBAN DEVELOPMENT"
+62,MINISTRY OF ENERGY
+66,MINISTRY OF TECHNOLOGY AND SCIENCE
+68,MINISTRY OF TOURISM
+76,"MINISTRY OF YOUTH, SPORT AND ARTS"
+77,MINISTRY OF DEFENCE
+78,ZAMBIA SECURITY INTELLIGENCE SERVICE - OFFICE OF THE PRESIDENT-SPECIAL DIVISION
+80,MINISTRY OF EDUCATION
+85,MINISTRY OF LANDS AND NATURAL RESOURCES
+86,MINISTRY OF FISHERIES AND LIVESTOCK
+87,ANTI- CORRUPTION COMMISSION
+88,OFFICE OF THE PRESIDENT- MUCHINGA PROVINCE
+89,MINISTRY OF AGRICULTURE
+90,OFFICE OF THE PRESIDENT-LUSAKA PROVINCE
+91,OFFICE OF THE PRESIDENT-COPPERBELT PROVINCE
+92,OFFICE OF THE PRESIDENT-CENTRAL PROVINCE
+93,OFFICE OF THE PRESIDENT-NORTHERN PROVINCE
+94,OFFICE OF THE PRESIDENT-WESTERN PROVINCE
+95,OFFICE OF THE PRESIDENT-EASTERN PROVINCE
+96,OFFICE OF THE PRESIDENT-LUAPULA PROVINCE
+97,OFFICE OF THE PRESIDENT-NORTH- WESTERN PROVINCE
+98,OFFICE OF THE PRESIDENT-SOUTHERN PROVINCE
+99,CONSTITUTIONAL AND STATUTORY EXPENDITURE - MINISTRY OF FINANCE AND NATIONA
