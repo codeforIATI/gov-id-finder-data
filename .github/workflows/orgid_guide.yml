@@ -1,6 +1,6 @@
 name: Push to Org-id.guide
 on:
-  workflow_dispatch: #push:
+  push:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -35,7 +35,7 @@ jobs:
         python update_org_id_guide.py
     - name: Create Pull Request
       if: github.ref == 'refs/heads/main'
-      uses: peter-evans/create-pull-request@v3
+      uses: peter-evans/create-pull-request@v6
       with:
         token: ${{ secrets.TOKEN }}
         path: orgid_repo
