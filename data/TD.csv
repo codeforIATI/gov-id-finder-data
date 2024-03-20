@@ -1,33 +1,40 @@
-code ,name_fr 
+code,name_fr
 1,Presidence de la republique
-3,Assemblee nationale
+2,Primature
+3,Conseil National de Transition
 4,Haute autorite de l'audiovisuel et des media
-5,cour supreme
-7,ministere de l'economie et de la planification du developpement
-8,ministere de la communication
-9,"ministere des etrangeres, de l'integration africaine, de la cooperation internationale et de la diaspora"
-10,ministere des finances et du budget
-11,ministere de la fonction publique et du dialogue social
-12,ministere de la justice et des droits humains
-13,"ministere de l'administration du territoire, de la securite publique et de la gouvernance locale"
-14,"ministere de la defense nationale, des anciens combattants et victimes de guerre"
-15,ministere de l'education nationale et de la promotion civique
-16,ministere de la sante publique
-17,"ministere de la femme, de la protection de la petite enfance et de la solidarite nationale"
-18,"ministere de la production, de l'lrrigation et des equipements agricoles"
-19,ministere de l'elevage et de la productions animales
-20,"ministere des mines, du developpement industriel, commercial et de la promotion du secteur prive"
-22,"ministere des infrastructures, du transport et du desenclavement"
-23,"ministere de la promotion des jeunes, des sports et de l'emploi"
-24,"developpement touristique, culture et artisanat"
-25,"ministere de l'environnement, de l'eau et de la peche"
-26,"ministere de l'enseignement superieur, de la recherche et de l'innovation"
-28,secretariat general du gouvernement charge des reformes
-31,"ministere de l'amenagement du territoire, di developpement de l'habitat et de l'urbanisme"
-33,ministere du petrole et de l'energie
-40,conseil economique et social
-42,ministere de la formation professionnelle et des petits metiers
-43,ministere de l'aviation civile et de la meteorologie nationale
-49,haut conseil des collectivites autonomes et des cheffferies traditionnelles #
-50,commission nationale des droits de l'homme
-88,depenses communes
+5,Cour Suprême
+7,Ministère de la Prospective Economique et des Partenaires Internationaux
+8,Ministère de la Communication
+9,"Ministère des Affaires Etrangères, des Tchadiens de l'Etranger, de la Coopération Internationale"
+10,"Ministère des finances, du Budget, et des Comptes Publics"
+11,"Ministère de la Fonction Publique, de l'Emploi et du Concertation Sociale"
+12,Ministère de la Justice et des Droits Humains
+13,Ministère de l'Administration du Territoire et de la Décentralisation et de la Bonne Gouvernance
+14,"Ministère des Armées, des Anciens Combattants et des Victimes de Guerre"
+15,Ministère de l'Éducation Nationale et de la Promotion Civique
+16,Ministère de la Santé et de la Prévention
+17,"Ministère du Genre, et de la Solidarité Nationale"
+18,Ministère de la Production et de la Transformation Agricole
+19,Ministère de l'Élevage et des Productions Animales
+20,Ministère du Commerce et de l'Industrie
+21,Ministère des Mines et de la Géologie
+22,Ministère des Infrastructures et du Désenclavement
+23,"Ministère de la Jeunesse, des Sports, des Loisirs et du Leadership Entrepreneurial"
+24,Ministère du Développement Touristique et de l'Artisanat
+25,Ministère des Postes et de l'Économie Numérique
+26,"Ministère de l'Environnement, de la Pêche et du Développement Durable"
+27,"Ministère de l'Enseignement Supérieur, de la Recherche Scientifique et de l'Innovation"
+28,Secréteriat Général du Gouvernement
+31,"Ministère de l'Aménagement du Territoire, de l'Habitat et de l'Urbanisme"
+32,Ministère de la Sécurité Publique et de l'Immigration
+33,Ministère des Hydrocarbures et de l'Énergie
+37,"Ministère des Affaires Culturelles, du Patrimoine Historique et du Tourisme"
+38,Ministère de l'Hydraulique Urbaine et de l'Assainissement
+40,"Conseil Économique, Social et Culturel"
+42,Ministère de la Formation Professionnelle des Métiers et de la Microfinance
+43,Ministère de l'Aviation Civile et de la Météorologie Nationale
+49,Haut Conseil des Collectivités Autonomes et des Chefferies Traditionnelles
+50,Commission Nationale des Droits de l'Homme
+52,Ministère des Transports et Sécurité Routière
+88,Dépeneses Communes
