@@ -1,69 +1,69 @@
-code,name_fr,Unnamed: 2
-12,Ministère De La Communication Et Des Relations Avec Le Parlement,
-17,Ministère Des Affaires Economiques Et Du Développement,
-21,Ministère De L'Équipement Et Des Transports,
-22,Ministère Du Développement Rural,
-37,"Ministère De La Culture, De La Jeunesse Et Des Sports",
-39,Ministère Des Affaires Islamiques Et De L'Enseignement Originel,
-50,Ministère De L'Education Nationale,
-74,Ministère De La Fonction Publique Et De L'Emploi,
-79,Secretariat D'État Chargé De La Modernisation De L'Administration Et De,s Tics
-82,"Ministère Du Pétrole, De L'Énergie Et Des Mines",
-83,Secretariat D'État Chargé Des Affaires Maghrebines,
-85,Secrétariat Permanent Du Haut Conseil D'Etat,
-86,Secretariat D'État A La Formation Professionnelle,
-92,Ministère De L'Emploi Et De La Formation Professionnelle,
-99,"Depenses Communes, Charges De La Dette, Comptes Spéciaux, Prets, Avance",s Et Participations
-16,Ministère Des Finances,
-18,"Ministère Du Commerce, De L'Industrie, De L'Artisanat Et Du Tourisme",
-19,Ministère Des Pêches Et De L'Économie Maritime,
-53,Ministère De La Santé,
-73,Ministère De L'Interieur Et De La Decentralisation,
-75,"Ministère De L'Habitat ,De L'Urbanisme Et De L'Amenagement Du Territoir",e
-76,Ministère De L' Hydraulique Et De L'Assainissement,
-77,"Ministère Des Affaires Sociales , De L'Enfance Et De La Famille",
-78,Ministère Delegue Auprès Du Premier Ministère Chargé De L'Environnement,Et Du Developpement Durable
-80,"Commissariat Aux Droits De L'Homme, A L'Action Humanitaire Et Aux Relat",ions Avec La Societe Civile
-81,Ministère Des Mines Et De L'Industrie,
-87,Ministère De L'Enseignement Fondamental,
-88,Ministère De L'Enseignement Secondaire Et Supérieur,
-90,Ministère Delegue Auprès Du Premier Ministère Chargé De La Modernisatio,n De L'Administration Et Des Tics
-91,Ministère De La Fonction Publique Et Du Travail,
-89,Ministère Delegue Auprès Du Premier Ministère Chargé Des Affaires Maghr,ebines
-84,Commissariat A La Promotion Des Investissements,
-72,Conseil Economique Et Social,
-47,Haute Autorité Pour La Presse Et L'Audiovisuel,
-36,Conseil Du Prix Chinguitti,
-34,Commissariat A La Securite Alimentaire,
-33,Médiateur De La République,
-32,Cour Suprême,
-14,Ministère De La Justice,
-11,Ministère Des Affaires Etrangeres Et De La Coopération,
-10,Ministère De La Défense Nationale,
-09,Secrétariat General Du Gouvernement,
-08,Cour Des Comptes,
-07,Conseil Constitutionnel,
-06,Haut Conseil Islamique,
-05,Assemblee Nationale,
-04,Senat,
-03,Premier Ministère,
-02,Secrétariat General De La Présidence De La République,
-01,Présidence De La République,
-94,Ministère De L'Emploi Et De La Formation Professionnelle Et Des Novelle,s Technologies
-93,Ministère Delegue Auprès Du Premier Ministère Chargé Des Affaires Afric,aines
-64,"Ministère De La Fonction Publique, Du Travail Et De La Modernisation De",L'Administration
-25,"Ministre D'Etat A L'Education Nationale , A L'Enseignement Superieur Et",A La Recherche Scientifique
-13,Direction Des Infrastructures De Transport,
-97,Programme National De Solidarite 2011,
-60,Ministre D'Etat A L'Education Nationale,
-51,Ministere Des Affaires Islamiques,
-96,Programme D'Intervention Et D'Espoir,
-95,Autorité De Régulation Des Marchés Publics,
-23,Commission Électorale Nationale Indépendante,
-26,"Etat A L'Education Nationale, A L'Enseignement Sup & A La Recherche Sci",entifique
-42,Ministère De L'Enseignement Supérieur Et De La Recherche Scientifique,
-68,Ministère Delegue Aupres Du Ministère Des Aff Etrangeres Charge Des Mau,ritaniens De L'Etranger
-69,Ministère Delegue Aupres Du Ministère Des Aff Etrangeres Charge Du Magh,reb Arabe Et Des Affaires Africaines Et
-27,Ministère De L'Elevage,
-28,Ministère De La Jeneusse Et Des Sports,
-67,Ministere Des Finances,
+code,name_fr
+01,Présidence De La République
+02,Secrétariat General De La Présidence De La République
+03,Premier Ministère
+04,Senat
+05,Assemblee Nationale
+06,Haut Conseil Islamique
+07,Conseil Constitutionnel
+08,Cour Des Comptes
+09,Secrétariat General Du Gouvernement
+10,Ministère De La Défense Nationale
+11,Ministère Des Affaires Etrangeres Et De La Coopération
+12,Ministère De La Communication Et Des Relations Avec Le Parlement
+13,Direction Des Infrastructures De Transport
+14,Ministère De La Justice
+16,Ministère Des Finances
+17,Ministère Des Affaires Economiques Et Du Développement
+18,"Ministère Du Commerce, De L'Industrie, De L'Artisanat Et Du Tourisme"
+19,Ministère Des Pêches Et De L'Économie Maritime
+21,Ministère De L'Équipement Et Des Transports
+22,Ministère Du Développement Rural
+23,Commission Électorale Nationale Indépendante
+25,"Ministre D'Etat A L'Education Nationale , A L'Enseignement Superieur Et"
+26,"Etat A L'Education Nationale, A L'Enseignement Sup & A La Recherche Sci"
+27,Ministère De L'Elevage
+28,Ministère De La Jeneusse Et Des Sports
+32,Cour Suprême
+33,Médiateur De La République
+34,Commissariat A La Securite Alimentaire
+36,Conseil Du Prix Chinguitti
+37,"Ministère De La Culture, De La Jeunesse Et Des Sports"
+39,Ministère Des Affaires Islamiques Et De L'Enseignement Originel
+42,Ministère De L'Enseignement Supérieur Et De La Recherche Scientifique
+47,Haute Autorité Pour La Presse Et L'Audiovisuel
+50,Ministère De L'Education Nationale
+51,Ministere Des Affaires Islamiques
+53,Ministère De La Santé
+60,Ministre D'Etat A L'Education Nationale
+64,"Ministère De La Fonction Publique, Du Travail Et De La Modernisation De"
+67,Ministere Des Finances
+68,Ministère Delegue Aupres Du Ministère Des Aff Etrangeres Charge Des Mau
+69,Ministère Delegue Aupres Du Ministère Des Aff Etrangeres Charge Du Magh
+72,Conseil Economique Et Social
+73,Ministère De L'Interieur Et De La Decentralisation
+74,Ministère De La Fonction Publique Et De L'Emploi
+75,"Ministère De L'Habitat ,De L'Urbanisme Et De L'Amenagement Du Territoir"
+76,Ministère De L' Hydraulique Et De L'Assainissement
+77,"Ministère Des Affaires Sociales , De L'Enfance Et De La Famille"
+78,Ministère Delegue Auprès Du Premier Ministère Chargé De L'Environnement
+79,Secretariat D'État Chargé De La Modernisation De L'Administration Et De
+80,"Commissariat Aux Droits De L'Homme, A L'Action Humanitaire Et Aux Relat"
+81,Ministère Des Mines Et De L'Industrie
+82,"Ministère Du Pétrole, De L'Énergie Et Des Mines"
+83,Secretariat D'État Chargé Des Affaires Maghrebines
+84,Commissariat A La Promotion Des Investissements
+85,Secrétariat Permanent Du Haut Conseil D'Etat
+86,Secretariat D'État A La Formation Professionnelle
+87,Ministère De L'Enseignement Fondamental
+88,Ministère De L'Enseignement Secondaire Et Supérieur
+89,Ministère Delegue Auprès Du Premier Ministère Chargé Des Affaires Maghr
+90,Ministère Delegue Auprès Du Premier Ministère Chargé De La Modernisatio
+91,Ministère De La Fonction Publique Et Du Travail
+92,Ministère De L'Emploi Et De La Formation Professionnelle
+93,Ministère Delegue Auprès Du Premier Ministère Chargé Des Affaires Afric
+94,Ministère De L'Emploi Et De La Formation Professionnelle Et Des Novelle
+95,Autorité De Régulation Des Marchés Publics
+96,Programme D'Intervention Et D'Espoir
+97,Programme National De Solidarite 2011
+99,"Depenses Communes, Charges De La Dette, Comptes Spéciaux, Prets, Avance"
