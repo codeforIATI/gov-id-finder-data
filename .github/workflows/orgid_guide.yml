@@ -38,6 +38,7 @@ jobs:
       uses: peter-evans/create-pull-request@v6
       with:
         token: ${{ secrets.TOKEN }}
+        repository: org-id/register
         path: orgid_repo
         commit-message: Org-ID update from gov-id-finder-data
         committer: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
