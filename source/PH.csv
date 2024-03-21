@@ -1,0 +1,494 @@
+ï»¿Code,name_en
+01,Congress of the Philippines (CONGRESS)
+02,Office of the President (OP)
+03,Office of the Vice-President (OVP)
+04,Department of Agrarian Reform (DAR)
+05,Department of Agriculture (DA)
+06,Department of Budget and Management (DBM)
+07,Department of Education (DepEd)
+08,State Universities and Colleges (SUCs)
+09,Department of Energy (DOE)
+10,Department of Environment and Natural Resources (DENR)
+11,Department of Finance (DOF)
+12,Department of Foreign Affairs (DFA)
+13,Department of Health (DOH)
+14,Department of the Interior and Local Government (DILG)
+15,Department of Justice (DOJ)
+16,Department of Labor and Employment (DOLE)
+17,Department of National Defense (DND)
+18,Department of Public Works and Highways (DPWH)
+19,Department of Science and Technology (DOST)
+20,Department of Social Welfare and Development (DSWD)
+21,Department of Tourism (DOT)
+22,Department of Trade and Industry (DTI)
+23,Department of Transportation and Communications (DOTC)
+24,National Economic and Development Authority (NEDA)
+25,Presidential Communications Operations Office (PCOO)
+26,Other Executive Offices (OEOs)
+27,Autonomous Region in Muslim Mindanao (ARMM)
+28,Joint Legislative-Executive Councils (JLEC)
+29,The Judiciary (JUD)
+30,Civil Service Commission (CSC)
+31,Commission on Audit (COA)
+32,Commission on Elections (COMELEC)
+33,Office of the Ombudsman (OMB)
+34,Commission on Human Rights (CHR)
+35,Budgetary Support to Government Corporations (BSGC)
+36,Allocations to Local Government Units (ALGU)
+37,Department of Information and Communications Technology (DICT)
+38,Department of Transportation (DOTr)
+39,Department of Human Settlements and Urban Development (DHSUD)
+40,Department of Migrant Workers
+01001,Senate
+01002,Senate Electoral Tribunal
+01003,Commission on Appointments
+01004,House of Representatives
+01005,House of Representatives Electoral Tribunal
+02001,The President's Offices
+03000,Office of the Vice-President (OVP)
+04001,Department of Agrarian Reform (Office of the Secretary)
+05001,Department of Agriculture (Office of the Secretary)
+05002,Agricultural Credit Policy Council
+05003,Bureau of Fisheries and Aquatic Resources
+05004,Cotton Development Administration
+05005,Fertilizer and Pesticide Authority
+05006,Fiber Industry Development Authority
+05007,Livestock Development Council
+05008,National Agricultural and Fishery Council
+05009,National Meat Inspection Service
+05010,Philippine Carabao Center
+05011,Philippine Center for Post-Harvest Development and Mechanization
+05012,Philippine Fiber Industry Development Authority
+05013,Philippine Council for Agriculture and Fisheries
+05014,National Fisheries Research and Development Institute
+06001,Department of Budget and Management (Office of the Secretary)
+06002,Government Procurement Policy Board-Technical Support Office
+06003,Procurement Service
+07001,Department of Education (Office of the Secretary)
+07002,National Book Development Board
+07003,National Council for Children's Television
+07004,National Museum of the Philippines
+07005,Philippine High School for the Arts
+07006,Early Childhood Care and Development Council
+07007,National Academy of Sports
+08001,Eulogio 'Amang' Rodriguez Institute of Science and Technology
+08002,Marikina Polytechnic College
+08003,Philippine Normal University
+08004,Philippine State College of Aeronautics
+08005,Polytechnic University of the Philippines
+08006,Rizal Technological University
+08007,Technological University of the Philippines
+08008,University of the Philippines System
+08009,Don Mariano Marcos Memorial State University
+08010,Ilocos Sur Polytechnic State College
+08011,Mariano Marcos State University
+08012,North Luzon Philippines State College
+08013,Pangasinan State University
+08014,University of Northern Philippines
+08015,Abra State Institute of Science and Technology
+08016,Apayao State College
+08017,Benguet State University
+08018,Ifugao State University
+08019,Kalinga State University
+08020,Mountain Province State University
+08021,Batanes State College
+08022,Cagayan State University
+08023,Isabela State University
+08024,Nueva Vizcaya State University
+08025,Quirino State University
+08026,Aurora State College of Technology
+08027,Bataan Peninsula State University
+08028,Bulacan Agricultural State College
+08029,Bulacan State University
+08030,Central Luzon State University
+08031,Don Honorio Ventura State University
+08032,Nueva Ecija University of Science and Technology
+08033,Pampanga State Agricultural University
+08034,Philippine Merchant Marine Academy
+08035,President Ramon Magsaysay State University
+08036,Tarlac Agricultural University
+08037,Tarlac State University
+08038,Batangas State University
+08039,Cavite State University
+08040,Laguna State Polytechnic University
+08041,Southern Luzon State University
+08042,University of Rizal System
+08043,Marinduque State College
+08044,Mindoro State University
+08045,Occidental Mindoro State College
+08046,Palawan State University
+08047,Romblon State University
+08048,Western Philippines University
+08049,Bicol University
+08050,Bicol State College of Applied Sciences and Technology
+08051,Camarines Norte State College
+08052,Camarines Sur Polytechnic Colleges
+08053,Catanduanes State University
+08054,Central Bicol State University of Agriculture
+08055,"Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology"
+08056,Partido State University
+08057,Sorsogon State University
+08058,Aklan State University
+08059,Capiz State University
+08060,Carlos C. Hilado Memorial State College
+08061,Guimaras State College
+08062,Iloilo State University of Science and Technology
+08063,Central Philippines State University
+08064,Northern Iloilo State University
+08065,Northern Negros State College of Science and Technology
+08066,University of Antique
+08067,Iloilo Science and Technology University
+08068,West Visayas State University
+08069,Bohol Island State University
+08070,Cebu Normal University
+08071,Cebu Technological University
+08072,Negros Oriental State University
+08073,Siquijor State College
+08074,Eastern Samar State University
+08075,Eastern Visayas State University
+08076,Leyte Normal University
+08077,Biliran Province State University
+08078,Northwest Samar State University
+08079,Palompon Polytechnic State University
+08080,Samar State University
+08081,Southern Leyte State University
+08082,University of Eastern Philippines
+08083,Visayas State University
+08084,J. H. Cerilles State College
+08085,Jose Rizal Memorial State University
+08086,Western Mindanao State University
+08087,Zamboanga City State Polytechnic College
+08088,Zamboanga State College of Marine Sciences and Technology
+08089,Bukidnon State University
+08090,Camiguin Polytechnic State College
+08091,Central Mindanao University
+08092,University of Science and Technology of Southern Philippines - Cagayan de Oro Campus
+08093,MSU-Iligan Institute of Technology
+08094,University of Science and Technology of Southern Philippines - Claveria Campus
+08095,Northwestern Mindanao State College of Science and Technology
+08096,Davao del Norte State College
+08097,Davao Oriental State University
+08098,Southern Philippines Agri-Business and Marine and Aquatic School of Technology
+08099,University of Southeastern Philippines
+08100,Cotabato State University
+08101,Cotabato Foundation College of Science and Technology
+08102,Sultan Kudarat State University
+08103,University of Southern Mindanao
+08104,Agusan del Sur State College of Agriculture and Technology
+08105,Caraga State University
+08106,Surigao del Sur State University
+08107,Surigao State College of Technology
+08108,Adiong Memorial Polytechnic State College
+08109,Basilan State College
+08110,Mindanao State University
+08111,MSU-Tawi-Tawi College of Technology and Oceanography
+08112,Sulu State College
+08113,Tawi-Tawi Regional Agricultural College
+08114,Davao de Oro State College
+08115,Davao del Sur State College
+08116,Northern Bukidnon State College
+08117,South Cotabato State College
+09001,Department of Energy (Office of the Secretary)
+10001,Department of Environment and Natural Resources (Office of the Secretary)
+10002,Environmental Management Bureau
+10003,Mines and Geosciences Bureau
+10004,National Mapping and Resource Information Authority
+10005,National Water Resources Board
+10006,Palawan Council for Sustainable Development Staff
+11001,Department of Finance (Office of the Secretary)
+11002,Bureau of Customs
+11003,Bureau of Internal Revenue
+11004,Bureau of Local Government Finance
+11005,Bureau of the Treasury
+11006,Central Board of Assessment Appeals
+11007,Cooperative Development Authority
+11008,Insurance Commission
+11009,National Tax Research Center
+11010,Privatization and Management Office
+11011,Securities and Exchange Commission
+12001,Department of Foreign Affairs (Office of the Secretary)
+12002,Foreign Service Institute
+12003,Technical Cooperation Council of the Philippines
+12004,UNESCO National Commission of the Philippines
+12005,Presidential Commission on Visiting Forces
+13001,Department of Health (Office of the Secretary)
+13002,Commission on Population
+13003,National Nutrition Council
+13004,Philippine National AIDS Council
+14001,Department of the Interior and Local Government (Office of the Secretary)
+14002,Bureau of Fire Protection
+14003,Bureau of Jail Management and Penology
+14004,Local Government Academy
+14005,National Police Commission
+14006,Philippine National Police
+14007,Philippine Public Safety College
+14008,National Commission on Muslim Filipinos (Office on Muslim Affairs)
+14009,National Youth Commission
+14010,Philippine Commission on Women (National Commission on the Role of Filipino Women)
+15001,Department of Justice (Office of the Secretary)
+15002,Bureau of Corrections
+15003,Bureau of Immigration
+15004,Land Registration Authority
+15005,National Bureau of Investigation
+15006,Office of the Government Corporate Counsel
+15007,Office of the Solicitor General
+15008,Parole and Probation Administration
+15009,Presidential Commission on Good Government
+15010,Public Attorney's Office
+15011,Office for Alternative Dispute Resolution
+16001,Department of Labor and Employment (Office of the Secretary)
+16002,Institute for Labor Studies
+16003,National Conciliation and Mediation Board
+16004,National Labor Relations Commission
+16005,National Maritime Polytechnic
+16006,National Wages and Productivity Commission
+16007,Philippine Overseas Employment Administration
+16008,Professional Regulation Commission
+16009,Technical Education and Skills Development Authority
+16010,Overseas Workers Welfare Administration
+17001,Department of National Defense (Office of the Secretary - Proper)
+17002,Government Arsenal
+17003,National Defense College of the Philippines
+17004,Office of Civil Defense
+17005,Philippine Veterans Affairs Office (PVAO) - Proper
+17006,Veterans Memorial Medical Center
+17007,Philippine Army ( Land Forces )
+17008,Philippine Air Force ( Air Forces )
+17009,Philippine Navy ( Naval Forces )
+17010,"General Headquarters, AFP and AFP-Wide Service Support Units (AFPWSSUs)"
+18001,Department of Public Works and Highways (Office of the Secretary)
+19001,Department of Science and Technology (Office of the Secretary)
+19002,Advanced Science and Technology Institute
+19003,Food and Nutrition Research Institute
+19004,Forest Products Research and Development Institute
+19005,Industrial Technology Development Institute
+19006,Information and Communications Technology Office
+19007,Metals Industry Research and Development Center
+19008,National Academy of Science and Technology
+19009,National Research Council of the Philippines
+19010,"Philippine Atmospheric, Geophysical and Astronomical Services Administration"
+19011,"Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development"
+19012,Philippine Council for Health Research and Development
+19013,"Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD)"
+19014,Philippine Institute of Volcanology and Seismology
+19015,Philippine Nuclear Research Institute
+19016,Philippine Science High School
+19017,Philippine Textile Research Institute
+19018,Science Education Institute
+19019,Science and Technology Information Institute
+19020,Technology Application and Promotion Institute
+20001,Department of Social Welfare and Development (Office of the Secretary)
+20002,Council for the Welfare of Children
+20003,Inter-Country Adoption Board
+20004,National Council on Disability Affairs
+20005,National Youth Commission
+20006,Juvenile Justice and Welfare Council
+20007,National Anti-Poverty Commission
+20008,National Commission on Indigenous Peoples
+20009,Presidential Commission for the Urban Poor
+21001,Department of Tourism (Office of the Secretary)
+21002,Intramuros Administration
+21003,National Parks Development Committee
+21004,Philippine Commission on Sports Scuba Diving
+22001,Department of Trade and Industry (Office of the Secretary)
+22002,Board of Investments
+22003,Construction Industry Authority of the Philippines
+22004,Construction Manpower Development Foundation
+22005,Philippine Trade Training Center
+22006,Design Center of the Philippines
+22007,Construction Industry Authority of the Philippines (CIAP)
+22008,Cooperative Development Authority
+22009,Technical Education and Skills Development Authority
+23001,Department of Transportation and Communications (Office of the Secretary)
+23002,Civil Aeronautics Board
+23003,Maritime Industry Authority
+23004,Office of Transportation Cooperatives
+23005,Office for Transportation Security
+23006,Philippine Coast Guard
+23007,Toll Regulatory Board
+24001,National Economic and Development Authority (Office of the Secretary)
+24002,National Statistical Coordination Board
+24003,National Statistics Office
+24004,Philippine National Volunteer Service Coordinating Agency
+24005,Public-Private Partnership Center of the Philippines
+24006,Philippine Statistical Research and Training Institute (formerly Statistical Research and Training Center)
+24007,Tariff Commission
+24008,Philippine Statistics Authority
+24009,Commission on Population and Development
+25001,Presidential Communications Operations Office (Proper)
+25002,Bureau of Broadcast Services
+25003,Bureau of Communications Services
+25004,National Printing Office
+25005,News and Information Bureau
+25006,Philippine Information Agency
+25007,Presidential Broadcast Staff (RTVM)
+26001,Anti-Money Laundering Council
+26002,Climate Change Commission
+26003,Commission on Filipinos Overseas
+26004,Commission on Higher Education
+26005,Commission on the Filipino Language
+26006,Dangerous Drugs Board
+26007,Early Childhood Care and Development Council
+26008,Energy Regulatory Commission
+26009,Film Development Council of the Philippines
+26010,Games and Amusements Board
+26011,Governance Commission for Government-Owned or Controlled Corporations
+26012,Housing and Land Use Regulatory Board
+26013,Housing and Urban Development Coordinating Council
+26014,Mindanao Development Authority
+26015,Movie and Television Review and Classification Board
+26016,National Anti-Poverty Commission
+26017,National Commission for Culture and the Arts-Proper
+26018,National Historical Commission of the Philippines
+26019,National Library of the Philippines
+26020,National Archives of the Philippines
+26021,National Commission on Indigenous Peoples
+26022,National Commission on Muslim Filipinos (Office on Muslim Affairs)
+26023,National Intelligence Coordinating Agency
+26024,National Security Council
+26025,National Telecommunications Commission
+26026,Office of the Presidential Adviser on the Peace Process
+26027,Optical Media Board
+26028,Pasig River Rehabilitation Commission
+26029,Philippine Commission on Women (National Commission on the Role of Filipino Women)
+26030,Philippine Drug Enforcement Agency
+26031,Philippine Racing Commission
+26032,Philippine Sports Commission
+26033,Presidential Commission for the Urban Poor
+26034,Presidential Communications Development and Strategic Planning Office
+26035,Presidential Legislative Liaison Office
+26036,Presidential Management Staff
+26037,Fertilizer and Pesticide Authority
+26038,Philippine Competition Commission
+26039,National Privacy Commission
+26040,National Youth Commission
+26041,Technical Education and Skills Development Authority
+26042,Cooperative Development Authority
+26043,Anti-Red Tape Authority
+26044,Philippine Space Agency
+26045,National Commission of Senior Citizens
+27001,Autonomous Regional Government in Muslim Mindanao
+28001,Legislative-Executive Development Advisory Council
+29001,Supreme Court of the Philippines and the Lower Courts
+29002,Presidential Electoral Tribunal
+29003,Sandiganbayan
+29004,Court of Appeals
+29005,Court of Tax Appeals
+30001,Civil Service Commission
+30002,Career Executive Service Board
+31000,Commission on Audit (COA)
+32000,Commission on Elections (COMELEC)
+33000,Office of the Ombudsman
+34000,Commission on Human Rights (CHR)
+34001,Commission on Human Rights (CHR)
+34002,Human Rights Victims' Claims Board
+34003,Human Rights Violations Victims' Memorial Commission
+35001,Land Bank of the Philippines
+35002,Human Settlements Development Corporation
+35003,National Dairy Authority
+35004,National Food Authority
+35005,National Irrigation Administration
+35006,National Livelihood Development Corporation
+35007,National Tobacco Administration
+35008,Philippine Coconut Authority
+35009,Philippine Crop Insurance Corporation
+35010,Philippine Fisheries Development Authority
+35011,Philippine Rice Research Institute
+35012,Philippine Sugar Corporation
+35013,Quedan and Rural Credit Guarantee Corporation
+35014,Sugar Regulatory Administration
+35015,National Electrification Administration
+35016,National Power Corporation
+35017,National Transmission Corporation
+35018,Philippine National Oil Company
+35019,Power Sector Assets and Liabilities Management Corporation
+35020,Laguna Lake Development Authority
+35021,Natural Resources Development Corporation
+35022,Philippine Reclamation Authority
+35023,Philippine Deposit Insurance Corporation
+35024,Philippine Export-Import Credit Agency (formerly Trade and Investment Development Corporation of the Philippines)
+35025,Lung Center of the Philippines
+35026,National Kidney and Transplant Institute
+35027,Philippine Childrenâs Medical Center
+35028,Philippine Health Insurance Corporation
+35029,Philippine Heart Center
+35030,Philippine Institute of Traditional and Alternative Health Care
+35031,Employees' Compensation Commission
+35032,Occupational Safety and Health Center
+35033,PHIVIDEC Industrial Authority
+35034,Local Water Utilities Administration
+35035,Metropolitan Waterworks and Sewerage System - Regulatory Office
+35036,Metropolitan Waterworks and Sewerage System - Corporate Office
+35037,Technology Resource Center
+35038,Duty Free Philippines Corporation
+35039,Nayong Pilipino Foundation
+35040,Tourism Infrastructure and Enterprise Zone Authority
+35041,Tourism Promotions Board
+35042,Aurora Pacific Economic Zone and Freeport Authority
+35043,Center for International Trade Expositions and Missions
+35044,Cottage Industry Technology Center
+35045,National Development Company
+35046,Philippine Economic Zone Authority
+35047,Philippine International Trading Corporation
+35048,Philippine Retirement Authority
+35049,Small Business Corporation
+35050,Cebu Port Authority
+35051,Civil Aviation Authority of the Philippines
+35052,Light Rail Transit Authority
+35053,Mactan Cebu International Airport Authority
+35054,Manila International Airport Authority
+35055,Philippine Aerospace Development Corporation
+35056,Philippine National Railways
+35057,Philippine Ports Authority
+35058,Philippine Institute for Development Studies
+35059,"People's Television Network, Inc."
+35060,Al-Amanah Islamic Investment Bank of the Philippines
+35061,Authority of the Freeport Area of Bataan
+35062,Bangko Sentral ng Pilipinas
+35063,Bases Conversion and Development Authority
+35064,Cagayan Economic Zone Authority
+35065,Central Bank Board of Liquidations
+35066,Credit Information Corporation
+35067,Cultural Center of the Philippines
+35068,Development Academy of the Philippines
+35069,Development Bank of the Philippines
+35070,Government Service Insurance System
+35071,Home Development Mutual Fund
+35072,Home Guaranty Corporation
+35073,National Home Mortgage Finance Corporation
+35074,National Housing Authority
+35075,Partido Development Administration
+35076,Peopleâs Credit and Finance Corporation
+35077,Philippine Amusement and Gaming Corporation
+35078,Philippine Center for Economic Development
+35079,Philippine Charity Sweepstakes Office
+35080,Philippine Postal Corporation
+35081,Social Security System
+35082,Southern Philippines Development Authority
+35083,Subic Bay Metropolitan Authority
+35084,Zamboanga City Special Economic Zone Authority
+35085,BSGC - Others
+35086,Social Housing Finance Corporation
+35087,Intercontinental Broadcasting Corporation
+35088,National Food Authority
+35089,Philippine Coconut Authority
+35090,Philippine Tax Academy
+35091,United Coconut Planters Bank
+35092,Davao International Airport Authority
+35093,Philippine Guarantee Corporation
+36001,Metropolitan Manila Development Authority
+36002,Bangsamoro Autonomous Region in Muslim Mindanao
+37001,Department of Information and Communications Technology (Office of the Secretary)
+37002,National Telecommunications Commission
+37003,National Privacy Commission
+37004,Cybercrime Investigation and Coordination Center
+38001,Department of Transportation (Office of the Secretary)
+38002,Civil Aeronautics Board
+38003,Maritime Industry Authority (MARINA)
+38004,Office of Transportation Cooperatives
+38005,Office for Transportation Security
+38006,Philippine Coast Guard
+38007,Toll Regulatory Board
+39001,Department of Human Settlements and Urban Development (Office of the Secretary)
+39002,Human Settlements Adjudication Commission
+40001,Department of Migrant Workers (Office of the Secretary)

@@ -1,0 +1,51 @@
+Code,name_en 
+101,President
+102,Deputy President
+103,Chief of Provinces
+202,Federal Parliament
+204,Courts
+206,Commission for Investigation of Abuse of Authority
+208,Office of the Auditor General
+210,Public Service Commission
+212,Election Commission
+214,National Human Rights Commission
+218,Council of Justice
+220,National Natural Resources and Fiscal Commission
+222,National Women Commission
+224,National Dalit Commission
+226,National Inclusion Commission
+228,Indigenous Nationalities Commission
+230,Madhesi Commission
+232,Tharu Commission
+234,Muslin Commission
+301,Office of the Prime Minister and Council of Ministers
+305,Ministry of Finance
+307,"Ministry of Industry, Commerce and Supply"
+308,"Ministry of Energy, Water Resources and Irrigation"
+311,"Ministry of Law, Justice and Parliamentary Affairs"
+312,Ministry of Agriculture and Livestock Development
+313,Ministry of Water Supply
+314,Ministry of Home Affairs
+325,"Ministry of Culture, Tourism and Civil Aviation"
+326,Ministry of Foreign Affairs
+329,Ministry of Forest and Environment
+336,"Ministry of Land Management, Cooperative and Poverty Alleviation"
+337,Ministry of Physical Infrastructure and Transport
+340,"Ministry of Women, Children and Senior Citizen"
+343,Ministry of Youth and Sports
+345,Ministry of Defence
+347,Ministry of Urban Development
+350,"Ministry of Education, Science and Technology"
+358,Ministry of Communications and Information Technology
+370,Ministry of Health and Population
+371,"Ministry of Labour, Employment and Social Security"
+391,National Planning Commission
+392,National Reconstruction Authority
+502,MOF - Domestic Debt Service
+503,MOF - Domestic Debt Service (Multilateral)
+504,MOF - External Debt Service (Bilateral)
+601,MOF Staff Benefits and Retirement Benefits
+602,MOF Miscellaneous
+701,Province
+801,Local Level
+365,Ministry of Federal Affairs and General Administration

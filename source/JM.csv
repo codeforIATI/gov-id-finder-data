@@ -1,0 +1,78 @@
+code ,name_en 
+1000,His Excellency the Governor-General and Staff
+2000,Houses of Parliament
+3000,Office of the Public Defender
+4000,Office of the Contractor-General
+5000,Auditor-General
+6000,Office of the Services Commissions
+7000,Office of the Children's Advocat
+8000,Independent Commission of Investigations
+15000,Office of the Prime Minister
+15000B,"Office of the Prime Minister, Capital, Multilateral/Bilateral Programme(s)"
+15010,Jamaica Information Service
+15020,Registrar-General's Department and Island Records Office
+16000,Office of the Cabinet
+16000B,"Office of the Cabinet, Capital, Multilateral/Bilateral Programme(s)"
+16049,Management Institute for National Development
+17000,Ministry of Tourism
+19000,Ministry of Economic Growth and Job Creation
+19000A,"Ministry of Economic Growth and Job Creation, Capital"
+19000B,"Ministry of Economic Growth and Job Creation, Capital, Multilateral/Bilateral Programme(s)"
+19046,Forestry Department
+19047,National Land Agency
+19048,National Environment and Planning Agency
+19050,National Works Agency
+20000,"Ministry of Finance and the Public Service, Capital"
+20000B,"Ministry of Finance and the Public Service, Capital, Multilateral/Bilateral Programme(s)"
+20011,Accountant-General
+20012,Jamaica Customs Agency
+20019,Pensions
+20056,Tax Administration Jamaica
+26000,Ministry of National Security
+26000A,"Ministry of National Security, Capital"
+26000B,"Ministry of Natioanl Secuirty, Capital, Multilateral/Bilateral Programme(s)"
+26022,Police Department
+26024,Department of Correctional Services
+26053,"Passport, Immigration and Citizenship Agency"
+26057,Institute of Forensic Science and Legal Medicine
+28000,Ministry of Justice
+28000A,"Ministry of Justice, Capital"
+28000B,"Ministry of Justice, Capital, Multilateral/Bilateral Programme(s)"
+28023,Court of Appeal
+28025,Director of Public Prosecutions
+28026,Family Courts
+28027,Parish Courts
+28028,Revenue Court
+28029,Supreme Court
+28030,Administrator-General
+28031,Attorney-General
+28033,Office of the Parliamentary Counsel
+28052,Legal Reform Department
+28054,Court Management Services
+30000,Ministry of Foreign Affairs and Foreign Trade
+40000,Ministry of Labour and Social Security
+40000B,"Ministry of Labour and Social Security, Capital, Multilateral/Bilateral Programme(s)"
+41000,"Ministry of Education, Youth and Information"
+41000A,"Ministry of Education, Youth and Information, Capital"
+41000B,"Ministry of Education, Youth and Information, Capital, Multilateral/Bilateral Programme(s)"
+41051,Child Development Agency
+42000,Ministry of Health
+42000A,"Ministry of Health, Capital"
+42000B,"Ministry of Health, Capital, Multilateral/Bilateral Programme(s)"
+42034,Bellevue Hospital
+42035,Governmet Chemist
+46000,"Ministry of Culture, Gender, Entertainment and Sport"
+46000A,"Ministry of Culture, Gender, Entertainment and Sport, Capital"
+46000B,"Ministry of Culture, Gender, Entertainment and Sport, Capital, Multilateral/Bilateral Programme(s)"
+50000,"Ministry of Industry, Commerce, Agriculture and Fisheries"
+50000A,"Minsitry of Industry, Commerce, Agriculture and Fisheries, Capital, Multilateral/Bilateral Programme(s)"
+50038,The Companies Office of Jamaica
+56000,"Ministry of Science, Energy and Technology"
+56000A,"Ministry of Science, Energy and Technology, Capital"
+56000B,"Ministry of Science, Energy and Technology, Captial, Mulilateral/Bilateral Programme(s)"
+56039,Post and Telecommunications Department
+68000,Ministry of Transport and Mining
+68000A,"Ministry of Transport and Mining, Capital"
+72000,Ministry of Local Government and Community Development
+72000A,"Ministry of Local Government and Community Development, Capital"
+72000B,"Ministry of Local Government and Community Development, Capital, Multilateral/Bilateral Programme(s)"
