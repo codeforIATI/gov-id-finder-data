@@ -1,0 +1,34 @@
+Identifier,Code,name_es,name_en,Branch / Sector
+CL-COA-01,01,Presidencia de la República,Presidency of the Republic,Órganos Autónomos
+CL-COA-02,02,Congreso Nacional,National Congress,Poder Legislativo
+CL-COA-03,03,Poder Judicial,Judiciary,Poder Judicial
+CL-COA-04,04,Contraloría General de la República,Office of the Comptroller General,Órganos Autónomos
+CL-COA-05,05,Ministerio del Interior,Ministry of the Interior,Poder Ejecutivo — Ministerios
+CL-COA-06,06,Ministerio de Relaciones Exteriores,Ministry of Foreign Affairs,Poder Ejecutivo — Ministerios
+CL-COA-07,07,"Ministerio de Economía, Fomento y Turismo","Ministry of Economy, Development and Tourism",Poder Ejecutivo — Ministerios
+CL-COA-08,08,Ministerio de Hacienda,Ministry of Finance,Poder Ejecutivo — Ministerios
+CL-COA-09,09,Ministerio de Educación,Ministry of Education,Poder Ejecutivo — Ministerios
+CL-COA-10,10,Ministerio de Justicia y Derechos Humanos,Ministry of Justice and Human Rights,Poder Ejecutivo — Ministerios
+CL-COA-11,11,Ministerio de Defensa Nacional,Ministry of National Defence,Poder Ejecutivo — Ministerios
+CL-COA-12,12,Ministerio de Obras Públicas,Ministry of Public Works,Poder Ejecutivo — Ministerios
+CL-COA-13,13,Ministerio de Agricultura,Ministry of Agriculture,Poder Ejecutivo — Ministerios
+CL-COA-14,14,Ministerio de Bienes Nacionales,Ministry of National Assets,Poder Ejecutivo — Ministerios
+CL-COA-15,15,Ministerio del Trabajo y Previsión Social,Ministry of Labour and Social Welfare,Poder Ejecutivo — Ministerios
+CL-COA-16,16,Ministerio de Salud,Ministry of Health,Poder Ejecutivo — Ministerios
+CL-COA-17,17,Ministerio de Minería,Ministry of Mining,Poder Ejecutivo — Ministerios
+CL-COA-18,18,Ministerio de Vivienda y Urbanismo,Ministry of Housing and Urbanism,Poder Ejecutivo — Ministerios
+CL-COA-19,19,Ministerio de Transportes y Telecomunicaciones,Ministry of Transport and Telecommunications,Poder Ejecutivo — Ministerios
+CL-COA-20,20,Ministerio Secretaría General de Gobierno,Ministry General Secretariat of Government,Poder Ejecutivo — Ministerios
+CL-COA-21,21,Ministerio de Desarrollo Social y Familia,Ministry of Social Development and Family,Poder Ejecutivo — Ministerios
+CL-COA-22,22,Ministerio Secretaría General de la Presidencia de la República,Ministry General Secretariat of the Presidency,Poder Ejecutivo — Ministerios
+CL-COA-23,23,Ministerio Público,Public Prosecutor's Office,Órganos Autónomos
+CL-COA-24,24,Ministerio de Energía,Ministry of Energy,Poder Ejecutivo — Ministerios
+CL-COA-25,25,Ministerio del Medio Ambiente,Ministry of the Environment,Poder Ejecutivo — Ministerios
+CL-COA-26,26,Ministerio del Deporte,Ministry of Sport,Poder Ejecutivo — Ministerios
+CL-COA-27,27,Ministerio de la Mujer y la Equidad de Género,Ministry of Women and Gender Equality,Poder Ejecutivo — Ministerios
+CL-COA-28,28,Servicio Electoral,Electoral Service,Órganos Autónomos
+CL-COA-29,29,"Ministerio de las Culturas, las Artes y el Patrimonio","Ministry of Cultures, Arts and Heritage",Poder Ejecutivo — Ministerios
+CL-COA-30,30,"Ministerio de Ciencia, Tecnología, Conocimiento e Innovación","Ministry of Science, Technology, Knowledge and Innovation",Poder Ejecutivo — Ministerios
+CL-COA-31,31,Financiamiento Gobiernos Regionales,Regional Governments Financing,Gobiernos Subnacionales
+CL-COA-32,32,Ministerio de Seguridad Pública,Ministry of Public Security,Poder Ejecutivo — Ministerios
+CL-COA-50,50,Tesoro Público,Public Treasury,Tesoro
