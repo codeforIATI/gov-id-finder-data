@@ -6,11 +6,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v5
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v6
       with:
-        python-version: 3.7
-    - uses: actions/cache@v4
+        python-version: 3.13
+    - uses: actions/cache@v5
       name: Cache dependencies
       with:
         path: ~/.cache/pip
@@ -26,7 +26,7 @@ jobs:
     - name: Run the scraper
       run: python scraper.py --refresh
     - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         GIT_CONFIG_NAME: Code for IATI bot
         GIT_CONFIG_EMAIL: 57559326+codeforIATIbot@users.noreply.github.com
