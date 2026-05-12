@@ -1,57 +1,57 @@
-Identifier,code,name_pt,name_en,Branch / Sector
-BR-COA-01000,01000,Câmara dos Deputados,Chamber of Deputies,Poder Legislativo
-BR-COA-02000,02000,Senado Federal,Federal Senate,Poder Legislativo
-BR-COA-03000,03000,Tribunal de Contas da União,Federal Court of Accounts,Poder Legislativo
-BR-COA-10000,10000,Supremo Tribunal Federal,Supreme Federal Court,Poder Judiciário
-BR-COA-11000,11000,Superior Tribunal de Justiça,Superior Court of Justice,Poder Judiciário
-BR-COA-12000,12000,Justiça Federal,Federal Justice,Poder Judiciário
-BR-COA-13000,13000,Justiça Militar,Federal Military Justice,Poder Judiciário
-BR-COA-14000,14000,Justiça Eleitoral,Electoral Justice,Poder Judiciário
-BR-COA-15000,15000,Justiça do Trabalho,Labour Justice,Poder Judiciário
-BR-COA-16000,16000,Justiça do Distrito Federal e dos Territórios,Federal District and Territories Justice,Poder Judiciário
-BR-COA-17000,17000,Conselho Nacional de Justiça,National Council of Justice,Poder Judiciário
-BR-COA-29000,29000,Defensoria Pública da União,Federal Public Defender's Office,Funções Essenciais à Justiça
-BR-COA-34000,34000,Ministério Público da União,Federal Public Prosecutor's Office,Funções Essenciais à Justiça
-BR-COA-59000,59000,Conselho Nacional do Ministério Público,National Council of the Public Prosecutor's Office,Funções Essenciais à Justiça
-BR-COA-63000,63000,Advocacia-Geral da União,Office of the Attorney General of the Union,Funções Essenciais à Justiça
-BR-COA-20000,20000,Presidência da República,Presidency of the Republic,Poder Executivo — Presidência
-BR-COA-37000,37000,Controladoria-Geral da União,Office of the Comptroller General,Poder Executivo — Presidência
-BR-COA-60000,60000,Gabinete da Vice-Presidência da República,Office of the Vice-Presidency of the Republic,Poder Executivo — Presidência
-BR-COA-22000,22000,Ministério da Agricultura e Pecuária,Ministry of Agriculture and Livestock,Poder Executivo — Ministérios
-BR-COA-24000,24000,"Ministério da Ciência, Tecnologia e Inovação","Ministry of Science, Technology and Innovation",Poder Executivo — Ministérios
-BR-COA-25000,25000,Ministério da Fazenda,Ministry of Finance,Poder Executivo — Ministérios
-BR-COA-26000,26000,Ministério da Educação,Ministry of Education,Poder Executivo — Ministérios
-BR-COA-28000,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços","Ministry of Development, Industry, Commerce and Services",Poder Executivo — Ministérios
-BR-COA-30000,30000,Ministério da Justiça e Segurança Pública,Ministry of Justice and Public Security,Poder Executivo — Ministérios
-BR-COA-32000,32000,Ministério de Minas e Energia,Ministry of Mines and Energy,Poder Executivo — Ministérios
-BR-COA-33000,33000,Ministério da Previdência Social,Ministry of Social Security,Poder Executivo — Ministérios
-BR-COA-35000,35000,Ministério das Relações Exteriores,Ministry of Foreign Affairs,Poder Executivo — Ministérios
-BR-COA-36000,36000,Ministério da Saúde,Ministry of Health,Poder Executivo — Ministérios
-BR-COA-38000,38000,Ministério do Trabalho e Emprego,Ministry of Labour and Employment,Poder Executivo — Ministérios
-BR-COA-39000,39000,Ministério dos Transportes,Ministry of Transport,Poder Executivo — Ministérios
-BR-COA-41000,41000,Ministério das Comunicações,Ministry of Communications,Poder Executivo — Ministérios
-BR-COA-42000,42000,Ministério da Cultura,Ministry of Culture,Poder Executivo — Ministérios
-BR-COA-44000,44000,Ministério do Meio Ambiente e Mudança do Clima,Ministry of Environment and Climate Change,Poder Executivo — Ministérios
-BR-COA-46000,46000,Ministério da Gestão e da Inovação em Serviços Públicos,Ministry of Management and Innovation in Public Services,Poder Executivo — Ministérios
-BR-COA-47000,47000,Ministério do Planejamento e Orçamento,Ministry of Planning and Budget,Poder Executivo — Ministérios
-BR-COA-49000,49000,Ministério do Desenvolvimento Agrário e Agricultura Familiar,Ministry of Agrarian Development and Family Farming,Poder Executivo — Ministérios
-BR-COA-51000,51000,Ministério do Esporte,Ministry of Sport,Poder Executivo — Ministérios
-BR-COA-52000,52000,Ministério da Defesa,Ministry of Defence,Poder Executivo — Ministérios
-BR-COA-53000,53000,Ministério da Integração e do Desenvolvimento Regional,Ministry of Integration and Regional Development,Poder Executivo — Ministérios
-BR-COA-54000,54000,Ministério do Turismo,Ministry of Tourism,Poder Executivo — Ministérios
-BR-COA-55000,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome","Ministry of Development and Social Assistance, Family and Fight Against Hunger",Poder Executivo — Ministérios
-BR-COA-56000,56000,Ministério das Cidades,Ministry of Cities,Poder Executivo — Ministérios
-BR-COA-58000,58000,Ministério da Pesca e Aquicultura,Ministry of Fisheries and Aquaculture,Poder Executivo — Ministérios
-BR-COA-65000,65000,Ministério das Mulheres,Ministry of Women,Poder Executivo — Ministérios
-BR-COA-67000,67000,Ministério da Igualdade Racial,Ministry of Racial Equality,Poder Executivo — Ministérios
-BR-COA-68000,68000,Ministério de Portos e Aeroportos,Ministry of Ports and Airports,Poder Executivo — Ministérios
-BR-COA-69000,69000,"Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte","Ministry of Entrepreneurship, Microenterprise and Small Business",Poder Executivo — Ministérios
-BR-COA-81000,81000,Ministério dos Direitos Humanos e da Cidadania,Ministry of Human Rights and Citizenship,Poder Executivo — Ministérios
-BR-COA-82000,82000,Ministério da Segurança Pública,Ministry of Public Security,Poder Executivo — Ministérios
-BR-COA-84000,84000,Ministério dos Povos Indígenas,Ministry of Indigenous Peoples,Poder Executivo — Ministérios
-BR-COA-25201,25201,Banco Central do Brasil,Central Bank of Brazil,Autarquia Especial
-BR-COA-71000,71000,Encargos Financeiros da União,Financial Charges of the Union,Encargos e Reservas
-BR-COA-73000,73000,Encargos Previdenciários da União,Social Security Charges of the Union,Encargos e Reservas
-BR-COA-74000,74000,Operações Oficiais de Crédito,Official Credit Operations,Encargos e Reservas
-BR-COA-75000,75000,Dívida Pública Federal,Federal Public Debt,Encargos e Reservas
-BR-COA-90000,90000,Reserva de Contingência,Contingency Reserve,Encargos e Reservas
+code,name_en,name_pt,Branch / Sector,Identifier
+01000,Chamber of Deputies,Câmara dos Deputados,Poder Legislativo,BR-COA-01000
+02000,Federal Senate,Senado Federal,Poder Legislativo,BR-COA-02000
+03000,Federal Court of Accounts,Tribunal de Contas da União,Poder Legislativo,BR-COA-03000
+10000,Supreme Federal Court,Supremo Tribunal Federal,Poder Judiciário,BR-COA-10000
+11000,Superior Court of Justice,Superior Tribunal de Justiça,Poder Judiciário,BR-COA-11000
+12000,Federal Justice,Justiça Federal,Poder Judiciário,BR-COA-12000
+13000,Federal Military Justice,Justiça Militar,Poder Judiciário,BR-COA-13000
+14000,Electoral Justice,Justiça Eleitoral,Poder Judiciário,BR-COA-14000
+15000,Labour Justice,Justiça do Trabalho,Poder Judiciário,BR-COA-15000
+16000,Federal District and Territories Justice,Justiça do Distrito Federal e dos Territórios,Poder Judiciário,BR-COA-16000
+17000,National Council of Justice,Conselho Nacional de Justiça,Poder Judiciário,BR-COA-17000
+29000,Federal Public Defender's Office,Defensoria Pública da União,Funções Essenciais à Justiça,BR-COA-29000
+34000,Federal Public Prosecutor's Office,Ministério Público da União,Funções Essenciais à Justiça,BR-COA-34000
+59000,National Council of the Public Prosecutor's Office,Conselho Nacional do Ministério Público,Funções Essenciais à Justiça,BR-COA-59000
+63000,Office of the Attorney General of the Union,Advocacia-Geral da União,Funções Essenciais à Justiça,BR-COA-63000
+20000,Presidency of the Republic,Presidência da República,Poder Executivo — Presidência,BR-COA-20000
+37000,Office of the Comptroller General,Controladoria-Geral da União,Poder Executivo — Presidência,BR-COA-37000
+60000,Office of the Vice-Presidency of the Republic,Gabinete da Vice-Presidência da República,Poder Executivo — Presidência,BR-COA-60000
+22000,Ministry of Agriculture and Livestock,Ministério da Agricultura e Pecuária,Poder Executivo — Ministérios,BR-COA-22000
+24000,"Ministry of Science, Technology and Innovation","Ministério da Ciência, Tecnologia e Inovação",Poder Executivo — Ministérios,BR-COA-24000
+25000,Ministry of Finance,Ministério da Fazenda,Poder Executivo — Ministérios,BR-COA-25000
+26000,Ministry of Education,Ministério da Educação,Poder Executivo — Ministérios,BR-COA-26000
+28000,"Ministry of Development, Industry, Commerce and Services","Ministério do Desenvolvimento, Indústria, Comércio e Serviços",Poder Executivo — Ministérios,BR-COA-28000
+30000,Ministry of Justice and Public Security,Ministério da Justiça e Segurança Pública,Poder Executivo — Ministérios,BR-COA-30000
+32000,Ministry of Mines and Energy,Ministério de Minas e Energia,Poder Executivo — Ministérios,BR-COA-32000
+33000,Ministry of Social Security,Ministério da Previdência Social,Poder Executivo — Ministérios,BR-COA-33000
+35000,Ministry of Foreign Affairs,Ministério das Relações Exteriores,Poder Executivo — Ministérios,BR-COA-35000
+36000,Ministry of Health,Ministério da Saúde,Poder Executivo — Ministérios,BR-COA-36000
+38000,Ministry of Labour and Employment,Ministério do Trabalho e Emprego,Poder Executivo — Ministérios,BR-COA-38000
+39000,Ministry of Transport,Ministério dos Transportes,Poder Executivo — Ministérios,BR-COA-39000
+41000,Ministry of Communications,Ministério das Comunicações,Poder Executivo — Ministérios,BR-COA-41000
+42000,Ministry of Culture,Ministério da Cultura,Poder Executivo — Ministérios,BR-COA-42000
+44000,Ministry of Environment and Climate Change,Ministério do Meio Ambiente e Mudança do Clima,Poder Executivo — Ministérios,BR-COA-44000
+46000,Ministry of Management and Innovation in Public Services,Ministério da Gestão e da Inovação em Serviços Públicos,Poder Executivo — Ministérios,BR-COA-46000
+47000,Ministry of Planning and Budget,Ministério do Planejamento e Orçamento,Poder Executivo — Ministérios,BR-COA-47000
+49000,Ministry of Agrarian Development and Family Farming,Ministério do Desenvolvimento Agrário e Agricultura Familiar,Poder Executivo — Ministérios,BR-COA-49000
+51000,Ministry of Sport,Ministério do Esporte,Poder Executivo — Ministérios,BR-COA-51000
+52000,Ministry of Defence,Ministério da Defesa,Poder Executivo — Ministérios,BR-COA-52000
+53000,Ministry of Integration and Regional Development,Ministério da Integração e do Desenvolvimento Regional,Poder Executivo — Ministérios,BR-COA-53000
+54000,Ministry of Tourism,Ministério do Turismo,Poder Executivo — Ministérios,BR-COA-54000
+55000,"Ministry of Development and Social Assistance, Family and Fight Against Hunger","Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",Poder Executivo — Ministérios,BR-COA-55000
+56000,Ministry of Cities,Ministério das Cidades,Poder Executivo — Ministérios,BR-COA-56000
+58000,Ministry of Fisheries and Aquaculture,Ministério da Pesca e Aquicultura,Poder Executivo — Ministérios,BR-COA-58000
+65000,Ministry of Women,Ministério das Mulheres,Poder Executivo — Ministérios,BR-COA-65000
+67000,Ministry of Racial Equality,Ministério da Igualdade Racial,Poder Executivo — Ministérios,BR-COA-67000
+68000,Ministry of Ports and Airports,Ministério de Portos e Aeroportos,Poder Executivo — Ministérios,BR-COA-68000
+69000,"Ministry of Entrepreneurship, Microenterprise and Small Business","Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte",Poder Executivo — Ministérios,BR-COA-69000
+81000,Ministry of Human Rights and Citizenship,Ministério dos Direitos Humanos e da Cidadania,Poder Executivo — Ministérios,BR-COA-81000
+82000,Ministry of Public Security,Ministério da Segurança Pública,Poder Executivo — Ministérios,BR-COA-82000
+84000,Ministry of Indigenous Peoples,Ministério dos Povos Indígenas,Poder Executivo — Ministérios,BR-COA-84000
+25201,Central Bank of Brazil,Banco Central do Brasil,Autarquia Especial,BR-COA-25201
+71000,Financial Charges of the Union,Encargos Financeiros da União,Encargos e Reservas,BR-COA-71000
+73000,Social Security Charges of the Union,Encargos Previdenciários da União,Encargos e Reservas,BR-COA-73000
+74000,Official Credit Operations,Operações Oficiais de Crédito,Encargos e Reservas,BR-COA-74000
+75000,Federal Public Debt,Dívida Pública Federal,Encargos e Reservas,BR-COA-75000
+90000,Contingency Reserve,Reserva de Contingência,Encargos e Reservas,BR-COA-90000

@@ -1,230 +1,230 @@
-Identifier,code_en,code_tr,name_en,Branch / Sector
-TR-COA-1,1,Türkiye Büyük Millet Meclisi,Grand National Assembly of Türkiye,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-2,2,Cumhurbaşkanlığı,Presidency of the Republic,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-3,3,Anayasa Mahkemesi,Constitutional Court,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-4,4,Yargıtay,Court of Cassation,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-5,5,Danıştay,Council of State,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-6,6,Hâkimler ve Savcılar Kurulu,Council of Judges and Prosecutors,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-7,7,Sayıştay,Court of Accounts,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-8,8,Adalet Bakanlığı,Ministry of Justice,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-9,9,Millî Savunma Bakanlığı,Ministry of National Defence,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-10,10,İçişleri Bakanlığı,Ministry of Interior,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-11,11,Dışişleri Bakanlığı,Ministry of Foreign Affairs,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-12,12,Hazine ve Maliye Bakanlığı,Ministry of Treasury and Finance,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-13,13,Millî Eğitim Bakanlığı,Ministry of National Education,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-14,14,Sağlık Bakanlığı,Ministry of Health,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-15,15,Ulaştırma ve Altyapı Bakanlığı,Ministry of Transport and Infrastructure,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-16,16,Aile ve Sosyal Hizmetler Bakanlığı,Ministry of Family and Social Services,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-17,17,Enerji ve Tabii Kaynaklar Bakanlığı,Ministry of Energy and Natural Resources,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-18,18,Kültür ve Turizm Bakanlığı,Ministry of Culture and Tourism,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-19,19,Sanayi ve Teknoloji Bakanlığı,Ministry of Industry and Technology,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-20,20,"Çevre, Şehircilik ve İklim Değişikliği Bakanlığı","Ministry of Environment, Urbanisation and Climate Change",Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-21,21,Ticaret Bakanlığı,Ministry of Trade,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-22,22,Gençlik ve Spor Bakanlığı,Ministry of Youth and Sports,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-23,23,Tarım ve Orman Bakanlığı,Ministry of Agriculture and Forestry,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-24,24,Millî Güvenlik Kurulu Genel Sekreterliği,Secretariat General of the National Security Council,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-25,25,Millî İstihbarat Teşkilatı Başkanlığı,National Intelligence Organisation,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-26,26,Jandarma Genel Komutanlığı,General Command of Gendarmerie,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-27,27,Sahil Güvenlik Komutanlığı,Coast Guard Command,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-28,28,Emniyet Genel Müdürlüğü,General Directorate of Security (National Police),Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-29,29,Diyanet İşleri Başkanlığı,Presidency of Religious Affairs,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-31,31,Türkiye İstatistik Kurumu,Turkish Statistical Institute (TÜİK),Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-32,32,Afet ve Acil Durum Yönetimi Başkanlığı,Disaster and Emergency Management Presidency (AFAD),Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-33,33,Gelir İdaresi Başkanlığı,Revenue Administration,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-34,34,Tapu ve Kadastro Genel Müdürlüğü,General Directorate of Land Registry and Cadastre,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-35,35,Meteoroloji Genel Müdürlüğü,General Directorate of Meteorology,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-36,36,Göç İdaresi Başkanlığı,Presidency of Migration Management,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-37,37,Avrupa Birliği Başkanlığı,Directorate for EU Affairs,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-38,38,Devlet Arşivleri Başkanlığı,Presidency of State Archives,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-39,39,İletişim Başkanlığı,Directorate of Communications,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-40,40,Millî Saraylar İdaresi Başkanlığı,Presidency of National Palaces Administration,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-41,41,Strateji ve Bütçe Başkanlığı,Presidency of Strategy and Budget,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-42,42,"Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı","Measuring, Selection and Placement Centre (ÖSYM)",Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-43,43,Savunma Sanayi Başkanlığı,Presidency of Defence Industries,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-44,44,"Atatürk Kültür, Dil ve Tarih Yüksek Kurumu","Atatürk Supreme Council for Culture, Language and History",Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-45,45,Atatürk Araştırma Merkezi,Atatürk Research Centre,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-46,46,Atatürk Kültür Merkezi,Atatürk Cultural Centre,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-47,47,Türk Dil Kurumu,Turkish Language Association,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-48,48,Türk Tarih Kurumu,Turkish Historical Society,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-49,49,Türkiye Bilimsel ve Teknolojik Araştırma Kurumu,Scientific and Technological Research Council (TÜBİTAK),Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-50,50,Türkiye Bilimler Akademisi,Turkish Academy of Sciences,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-51,51,Karayolları Genel Müdürlüğü,General Directorate of Highways,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-52,52,Devlet Tiyatroları Genel Müdürlüğü,General Directorate of State Theatres,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-53,53,Devlet Opera ve Balesi Genel Müdürlüğü,General Directorate of State Opera and Ballet,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-54,54,Orman Genel Müdürlüğü,General Directorate of Forestry,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-55,55,Vakıflar Genel Müdürlüğü,General Directorate of Foundations,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-56,56,Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü,Directorate General of Borders and Coasts Health,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-57,57,Maden Tetkik ve Arama Genel Müdürlüğü,General Directorate of Mineral Research and Exploration,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-58,58,Sivil Havacılık Genel Müdürlüğü,Directorate General of Civil Aviation,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-59,59,Türk Akreditasyon Kurumu,Turkish Accreditation Agency,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-60,60,Türk Standardları Enstitüsü,Turkish Standards Institute,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-61,61,Türk Patent ve Marka Kurumu,Turkish Patent and Trademark Office,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-64,64,Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı,Small and Medium Enterprises Development Organisation (KOSGEB),Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-65,65,Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı,Turkish Cooperation and Coordination Agency (TİKA),Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-66,66,GAP Bölge Kalkınma İdaresi,Southeastern Anatolia Project Regional Development Administration,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-67,67,Özelleştirme İdaresi Başkanlığı,Privatisation Administration,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-68,68,Kamu Denetçiliği Kurumu,Ombudsman Institution,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-69,69,Ceza İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu,Work-Houses Institution for Penal Execution and Detention Centres,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-70,70,Mesleki Yeterlilik Kurumu Başkanlığı,Vocational Qualifications Authority,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-71,71,Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı,Presidency for Turks Abroad and Related Communities,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-72,72,Türkiye Yazma Eserler Kurumu Başkanlığı,Türkiye Manuscripts Institution,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-73,73,Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı,Eastern Anatolia Project Regional Development Administration,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-74,74,Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı,Konya Plain Project Regional Development Administration,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-75,75,Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı,Eastern Black Sea Project Regional Development Administration,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-76,76,Devlet Su İşleri Genel Müdürlüğü,General Directorate of State Hydraulic Works,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-77,77,Türkiye Su Enstitüsü,Türkiye Water Institute,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-78,78,Türkiye İlaç ve Tıbbi Cihaz Kurumu,Turkish Medicines and Medical Devices Agency,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-79,79,Türkiye İnsan Hakları ve Eşitlik Kurumu,Human Rights and Equality Institution of Türkiye,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-80,80,Türkiye Sağlık Enstitüleri Başkanlığı,Health Institutes of Türkiye,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-81,81,Helal Akreditasyon Kurumu,Halal Accreditation Agency,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-83,83,Maden ve Petrol İşleri Genel Müdürlüğü,General Directorate of Mining and Petroleum Affairs,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-84,84,Türkiye Uzay Ajansı,Turkish Space Agency,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-85,85,Kapadokya Alan Başkanlığı,Cappadocia Area Directorate,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-87,87,Radyo ve Televizyon Üst Kurulu,Radio and Television Supreme Council (RTÜK),Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-88,88,Bilgi Teknolojileri ve İletişim Kurumu,Information and Communication Technologies Authority (BTK),Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-89,89,Sermaye Piyasası Kurulu,Capital Markets Board (SPK),Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-90,90,Bankacılık Düzenleme ve Denetleme Kurumu,Banking Regulation and Supervision Agency (BDDK),Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-91,91,Enerji Piyasası Düzenleme Kurumu,Energy Market Regulatory Authority (EPDK),Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-92,92,Kamu İhale Kurumu,Public Procurement Authority,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-93,93,Rekabet Kurumu,Competition Authority,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-94,94,"Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu","Public Oversight, Accounting and Auditing Standards Authority",Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-95,95,Kişisel Verileri Koruma Kurumu,Personal Data Protection Authority (KVKK),Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-96,96,Nükleer Düzenleme Kurumu,Nuclear Regulatory Authority,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-102,102,Türkiye Adalet Akademisi,Justice Academy of Türkiye,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-103,103,Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu,Insurance and Private Pension Regulation and Supervision Agency,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies)
-TR-COA-104,104,"Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu","Türkiye Energy, Nuclear and Mineral Research Agency",Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-105,105,Çalışma ve Sosyal Güvenlik Bakanlığı,Ministry of Labour and Social Security,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-106,106,İklim Değişikliği Başkanlığı,Presidency of Climate Change,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget)
-TR-COA-107,107,Uludağ Alan Başkanlığı,Uludağ Area Directorate,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-108,108,Kentsel Dönüşüm Başkanlığı,Presidency of Urban Transformation,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-109,109,Siber Güvenlik Başkanlığı,Presidency of Cybersecurity,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-110,110,Doğa Koruma ve Millî Parklar Genel Müdürlüğü,General Directorate of Nature Conservation and National Parks,Özel Bütçeli Diğer İdareler (Other Special Budget)
-TR-COA-401,401,Yükseköğretim Kurulu,Council of Higher Education (YÖK),Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-402,402,Ankara Üniversitesi,Ankara University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-403,403,Orta Doğu Teknik Üniversitesi,Middle East Technical University (METU),Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-404,404,Hacettepe Üniversitesi,Hacettepe University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-405,405,Gazi Üniversitesi,Gazi University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-406,406,İstanbul Üniversitesi,Istanbul University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-407,407,İstanbul Teknik Üniversitesi,Istanbul Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-408,408,Boğaziçi Üniversitesi,Boğaziçi University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-409,409,Marmara Üniversitesi,Marmara University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-410,410,Yıldız Teknik Üniversitesi,Yıldız Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-411,411,Mimar Sinan Güzel Sanatlar Üniversitesi,Mimar Sinan Fine Arts University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-412,412,Ege Üniversitesi,Ege University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-413,413,Dokuz Eylül Üniversitesi,Dokuz Eylül University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-414,414,Trakya Üniversitesi,Trakya University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-415,415,Bursa Uludağ Üniversitesi,Bursa Uludağ University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-416,416,Anadolu Üniversitesi,Anadolu University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-417,417,Selçuk Üniversitesi,Selçuk University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-418,418,Akdeniz Üniversitesi,Akdeniz University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-419,419,Erciyes Üniversitesi,Erciyes University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-420,420,Sivas Cumhuriyet Üniversitesi,Sivas Cumhuriyet University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-421,421,Çukurova Üniversitesi,Çukurova University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-422,422,Ondokuz Mayıs Üniversitesi,Ondokuz Mayıs University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-423,423,Karadeniz Teknik Üniversitesi,Karadeniz Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-424,424,Atatürk Üniversitesi,Atatürk University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-425,425,İnönü Üniversitesi,İnönü University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-426,426,Fırat Üniversitesi,Fırat University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-427,427,Dicle Üniversitesi,Dicle University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-428,428,Van Yüzüncü Yıl Üniversitesi,Van Yüzüncü Yıl University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-429,429,Gaziantep Üniversitesi,Gaziantep University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-430,430,İzmir Yüksek Teknoloji Enstitüsü,İzmir Institute of Technology,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-431,431,Gebze Teknik Üniversitesi,Gebze Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-432,432,Harran Üniversitesi,Harran University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-433,433,Süleyman Demirel Üniversitesi,Süleyman Demirel University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-434,434,Aydın Adnan Menderes Üniversitesi,Aydın Adnan Menderes University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-435,435,Zonguldak Bülent Ecevit Üniversitesi,Zonguldak Bülent Ecevit University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-436,436,Mersin Üniversitesi,Mersin University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-437,437,Pamukkale Üniversitesi,Pamukkale University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-438,438,Balıkesir Üniversitesi,Balıkesir University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-439,439,Kocaeli Üniversitesi,Kocaeli University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-440,440,Sakarya Üniversitesi,Sakarya University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-441,441,Manisa Celal Bayar Üniversitesi,Manisa Celal Bayar University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-442,442,Bolu Abant İzzet Baysal Üniversitesi,Bolu Abant İzzet Baysal University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-443,443,Hatay Mustafa Kemal Üniversitesi,Hatay Mustafa Kemal University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-444,444,Afyon Kocatepe Üniversitesi,Afyon Kocatepe University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-445,445,Kafkas Üniversitesi,Kafkas University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-446,446,Çanakkale Onsekiz Mart Üniversitesi,Çanakkale Onsekiz Mart University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-447,447,Niğde Ömer Halisdemir Üniversitesi,Niğde Ömer Halisdemir University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-448,448,Kütahya Dumlupınar Üniversitesi,Kütahya Dumlupınar University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-449,449,Tokat Gaziosmanpaşa Üniversitesi,Tokat Gaziosmanpaşa University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-450,450,Muğla Sıtkı Koçman Üniversitesi,Muğla Sıtkı Koçman University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-451,451,Kahramanmaraş Sütçü İmam Üniversitesi,Kahramanmaraş Sütçü İmam University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-452,452,Kırıkkale Üniversitesi,Kırıkkale University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-453,453,Eskişehir Osmangazi Üniversitesi,Eskişehir Osmangazi University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-454,454,Galatasaray Üniversitesi,Galatasaray University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-455,455,Kırşehir Ahi Evran Üniversitesi,Kırşehir Ahi Evran University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-456,456,Kastamonu Üniversitesi,Kastamonu University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-457,457,Düzce Üniversitesi,Düzce University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-458,458,Burdur Mehmet Akif Ersoy Üniversitesi,Burdur Mehmet Akif Ersoy University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-459,459,Uşak Üniversitesi,Uşak University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-460,460,Recep Tayyip Erdoğan Üniversitesi,Recep Tayyip Erdoğan University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-461,461,Tekirdağ Namık Kemal Üniversitesi,Tekirdağ Namık Kemal University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-462,462,Erzincan Binali Yıldırım Üniversitesi,Erzincan Binali Yıldırım University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-463,463,Aksaray Üniversitesi,Aksaray University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-464,464,Giresun Üniversitesi,Giresun University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-465,465,Hitit Üniversitesi,Hitit University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-466,466,Yozgat Bozok Üniversitesi,Yozgat Bozok University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-467,467,Adıyaman Üniversitesi,Adıyaman University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-468,468,Ordu Üniversitesi,Ordu University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-469,469,Amasya Üniversitesi,Amasya University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-470,470,Karamanoğlu Mehmetbey Üniversitesi,Karamanoğlu Mehmetbey University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-471,471,Ağrı İbrahim Çeçen Üniversitesi,Ağrı İbrahim Çeçen University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-472,472,Sinop Üniversitesi,Sinop University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-473,473,Siirt Üniversitesi,Siirt University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-474,474,Nevşehir Hacı Bektaş Veli Üniversitesi,Nevşehir Hacı Bektaş Veli University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-475,475,Karabük Üniversitesi,Karabük University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-476,476,Kilis 7 Aralık Üniversitesi,Kilis 7 Aralık University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-477,477,Çankırı Karatekin Üniversitesi,Çankırı Karatekin University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-478,478,Artvin Çoruh Üniversitesi,Artvin Çoruh University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-479,479,Bilecik Şeyh Edebali Üniversitesi,Bilecik Şeyh Edebali University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-480,480,Bitlis Eren Üniversitesi,Bitlis Eren University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-481,481,Kırklareli Üniversitesi,Kırklareli University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-482,482,Osmaniye Korkut Ata Üniversitesi,Osmaniye Korkut Ata University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-483,483,Bingöl Üniversitesi,Bingöl University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-484,484,Muş Alparslan Üniversitesi,Muş Alparslan University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-485,485,Mardin Artuklu Üniversitesi,Mardin Artuklu University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-486,486,Batman Üniversitesi,Batman University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-487,487,Ardahan Üniversitesi,Ardahan University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-488,488,Bartın Üniversitesi,Bartın University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-489,489,Bayburt Üniversitesi,Bayburt University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-490,490,Gümüşhane Üniversitesi,Gümüşhane University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-491,491,Hakkari Üniversitesi,Hakkari University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-492,492,Iğdır Üniversitesi,Iğdır University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-493,493,Şırnak Üniversitesi,Şırnak University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-494,494,Munzur Üniversitesi,Munzur University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-495,495,Yalova Üniversitesi,Yalova University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-496,496,Türk Alman Üniversitesi,Turkish-German University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-497,497,Ankara Yıldırım Beyazıt Üniversitesi,Ankara Yıldırım Beyazıt University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-498,498,Bursa Teknik Üniversitesi,Bursa Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-499,499,İstanbul Medeniyet Üniversitesi,Istanbul Medeniyet University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-500,500,İzmir Kâtip Çelebi Üniversitesi,İzmir Kâtip Çelebi University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-501,501,Necmettin Erbakan Üniversitesi,Necmettin Erbakan University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-502,502,Abdullah Gül Üniversitesi,Abdullah Gül University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-503,503,Erzurum Teknik Üniversitesi,Erzurum Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-504,504,Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi,Adana Alparslan Türkeş Science and Technology University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-505,505,Ankara Sosyal Bilimler Üniversitesi,Social Sciences University of Ankara,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-506,506,Sağlık Bilimleri Üniversitesi,University of Health Sciences,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-507,507,Bandırma Onyedi Eylül Üniversitesi,Bandırma Onyedi Eylül University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-508,508,İskenderun Teknik Üniversitesi,İskenderun Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-509,509,Alanya Alaaddin Keykubat Üniversitesi,Alanya Alaaddin Keykubat University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-511,511,İzmir Bakırçay Üniversitesi,İzmir Bakırçay University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-512,512,İzmir Demokrasi Üniversitesi,İzmir Demokrasi University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-513,513,Yükseköğretim Kalite Kurulu,Higher Education Quality Council,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-514,514,Ankara Müzik ve Güzel Sanatlar Üniversitesi,Ankara Music and Fine Arts University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-515,515,Gaziantep İslam Bilim ve Teknoloji Üniversitesi,Gaziantep Islamic Science and Technology University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-516,516,Konya Teknik Üniversitesi,Konya Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-517,517,Kütahya Sağlık Bilimleri Üniversitesi,Kütahya Health Sciences University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-518,518,Malatya Turgut Özal Üniversitesi,Malatya Turgut Özal University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-519,519,İstanbul Üniversitesi - Cerrahpaşa,Istanbul University - Cerrahpaşa,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-520,520,Ankara Hacı Bayram Veli Üniversitesi,Ankara Hacı Bayram Veli University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-521,521,Sakarya Uygulamalı Bilimler Üniversitesi,Sakarya University of Applied Sciences,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-522,522,Samsun Üniversitesi,Samsun University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-523,523,Sivas Bilim ve Teknoloji Üniversitesi,Sivas Science and Technology University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-524,524,Tarsus Üniversitesi,Tarsus University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-525,525,Trabzon Üniversitesi,Trabzon University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-526,526,Kayseri Üniversitesi,Kayseri University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-527,527,Kahramanmaraş İstiklal Üniversitesi,Kahramanmaraş İstiklal University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-528,528,Eskişehir Teknik Üniversitesi,Eskişehir Technical University,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-529,529,Isparta Uygulamalı Bilimler Üniversitesi,Isparta University of Applied Sciences,Yükseköğretim Kurumları (Higher Education Institutions)
-TR-COA-530,530,Afyonkarahisar Sağlık Bilimleri Üniversitesi,Afyonkarahisar Health Sciences University,Yükseköğretim Kurumları (Higher Education Institutions)
+code,name_en,code_tr,Branch / Sector,Identifier
+1,Grand National Assembly of Türkiye,Türkiye Büyük Millet Meclisi,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-1
+2,Presidency of the Republic,Cumhurbaşkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-2
+3,Constitutional Court,Anayasa Mahkemesi,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-3
+4,Court of Cassation,Yargıtay,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-4
+5,Council of State,Danıştay,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-5
+6,Council of Judges and Prosecutors,Hâkimler ve Savcılar Kurulu,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-6
+7,Court of Accounts,Sayıştay,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-7
+8,Ministry of Justice,Adalet Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-8
+9,Ministry of National Defence,Millî Savunma Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-9
+10,Ministry of Interior,İçişleri Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-10
+11,Ministry of Foreign Affairs,Dışişleri Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-11
+12,Ministry of Treasury and Finance,Hazine ve Maliye Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-12
+13,Ministry of National Education,Millî Eğitim Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-13
+14,Ministry of Health,Sağlık Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-14
+15,Ministry of Transport and Infrastructure,Ulaştırma ve Altyapı Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-15
+16,Ministry of Family and Social Services,Aile ve Sosyal Hizmetler Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-16
+17,Ministry of Energy and Natural Resources,Enerji ve Tabii Kaynaklar Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-17
+18,Ministry of Culture and Tourism,Kültür ve Turizm Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-18
+19,Ministry of Industry and Technology,Sanayi ve Teknoloji Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-19
+20,"Ministry of Environment, Urbanisation and Climate Change","Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-20
+21,Ministry of Trade,Ticaret Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-21
+22,Ministry of Youth and Sports,Gençlik ve Spor Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-22
+23,Ministry of Agriculture and Forestry,Tarım ve Orman Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-23
+24,Secretariat General of the National Security Council,Millî Güvenlik Kurulu Genel Sekreterliği,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-24
+25,National Intelligence Organisation,Millî İstihbarat Teşkilatı Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-25
+26,General Command of Gendarmerie,Jandarma Genel Komutanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-26
+27,Coast Guard Command,Sahil Güvenlik Komutanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-27
+28,General Directorate of Security (National Police),Emniyet Genel Müdürlüğü,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-28
+29,Presidency of Religious Affairs,Diyanet İşleri Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-29
+31,Turkish Statistical Institute (TÜİK),Türkiye İstatistik Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-31
+32,Disaster and Emergency Management Presidency (AFAD),Afet ve Acil Durum Yönetimi Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-32
+33,Revenue Administration,Gelir İdaresi Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-33
+34,General Directorate of Land Registry and Cadastre,Tapu ve Kadastro Genel Müdürlüğü,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-34
+35,General Directorate of Meteorology,Meteoroloji Genel Müdürlüğü,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-35
+36,Presidency of Migration Management,Göç İdaresi Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-36
+37,Directorate for EU Affairs,Avrupa Birliği Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-37
+38,Presidency of State Archives,Devlet Arşivleri Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-38
+39,Directorate of Communications,İletişim Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-39
+40,Presidency of National Palaces Administration,Millî Saraylar İdaresi Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-40
+41,Presidency of Strategy and Budget,Strateji ve Bütçe Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-41
+42,"Measuring, Selection and Placement Centre (ÖSYM)","Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı",Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-42
+43,Presidency of Defence Industries,Savunma Sanayi Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-43
+44,"Atatürk Supreme Council for Culture, Language and History","Atatürk Kültür, Dil ve Tarih Yüksek Kurumu",Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-44
+45,Atatürk Research Centre,Atatürk Araştırma Merkezi,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-45
+46,Atatürk Cultural Centre,Atatürk Kültür Merkezi,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-46
+47,Turkish Language Association,Türk Dil Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-47
+48,Turkish Historical Society,Türk Tarih Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-48
+49,Scientific and Technological Research Council (TÜBİTAK),Türkiye Bilimsel ve Teknolojik Araştırma Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-49
+50,Turkish Academy of Sciences,Türkiye Bilimler Akademisi,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-50
+51,General Directorate of Highways,Karayolları Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-51
+52,General Directorate of State Theatres,Devlet Tiyatroları Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-52
+53,General Directorate of State Opera and Ballet,Devlet Opera ve Balesi Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-53
+54,General Directorate of Forestry,Orman Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-54
+55,General Directorate of Foundations,Vakıflar Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-55
+56,Directorate General of Borders and Coasts Health,Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-56
+57,General Directorate of Mineral Research and Exploration,Maden Tetkik ve Arama Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-57
+58,Directorate General of Civil Aviation,Sivil Havacılık Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-58
+59,Turkish Accreditation Agency,Türk Akreditasyon Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-59
+60,Turkish Standards Institute,Türk Standardları Enstitüsü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-60
+61,Turkish Patent and Trademark Office,Türk Patent ve Marka Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-61
+64,Small and Medium Enterprises Development Organisation (KOSGEB),Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-64
+65,Turkish Cooperation and Coordination Agency (TİKA),Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-65
+66,Southeastern Anatolia Project Regional Development Administration,GAP Bölge Kalkınma İdaresi,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-66
+67,Privatisation Administration,Özelleştirme İdaresi Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-67
+68,Ombudsman Institution,Kamu Denetçiliği Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-68
+69,Work-Houses Institution for Penal Execution and Detention Centres,Ceza İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-69
+70,Vocational Qualifications Authority,Mesleki Yeterlilik Kurumu Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-70
+71,Presidency for Turks Abroad and Related Communities,Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-71
+72,Türkiye Manuscripts Institution,Türkiye Yazma Eserler Kurumu Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-72
+73,Eastern Anatolia Project Regional Development Administration,Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-73
+74,Konya Plain Project Regional Development Administration,Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-74
+75,Eastern Black Sea Project Regional Development Administration,Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-75
+76,General Directorate of State Hydraulic Works,Devlet Su İşleri Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-76
+77,Türkiye Water Institute,Türkiye Su Enstitüsü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-77
+78,Turkish Medicines and Medical Devices Agency,Türkiye İlaç ve Tıbbi Cihaz Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-78
+79,Human Rights and Equality Institution of Türkiye,Türkiye İnsan Hakları ve Eşitlik Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-79
+80,Health Institutes of Türkiye,Türkiye Sağlık Enstitüleri Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-80
+81,Halal Accreditation Agency,Helal Akreditasyon Kurumu,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-81
+83,General Directorate of Mining and Petroleum Affairs,Maden ve Petrol İşleri Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-83
+84,Turkish Space Agency,Türkiye Uzay Ajansı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-84
+85,Cappadocia Area Directorate,Kapadokya Alan Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-85
+87,Radio and Television Supreme Council (RTÜK),Radyo ve Televizyon Üst Kurulu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-87
+88,Information and Communication Technologies Authority (BTK),Bilgi Teknolojileri ve İletişim Kurumu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-88
+89,Capital Markets Board (SPK),Sermaye Piyasası Kurulu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-89
+90,Banking Regulation and Supervision Agency (BDDK),Bankacılık Düzenleme ve Denetleme Kurumu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-90
+91,Energy Market Regulatory Authority (EPDK),Enerji Piyasası Düzenleme Kurumu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-91
+92,Public Procurement Authority,Kamu İhale Kurumu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-92
+93,Competition Authority,Rekabet Kurumu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-93
+94,"Public Oversight, Accounting and Auditing Standards Authority","Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu",Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-94
+95,Personal Data Protection Authority (KVKK),Kişisel Verileri Koruma Kurumu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-95
+96,Nuclear Regulatory Authority,Nükleer Düzenleme Kurumu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-96
+102,Justice Academy of Türkiye,Türkiye Adalet Akademisi,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-102
+103,Insurance and Private Pension Regulation and Supervision Agency,Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu,Düzenleyici ve Denetleyici Kurumlar (Regulatory and Supervisory Bodies),TR-COA-103
+104,"Türkiye Energy, Nuclear and Mineral Research Agency","Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu",Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-104
+105,Ministry of Labour and Social Security,Çalışma ve Sosyal Güvenlik Bakanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-105
+106,Presidency of Climate Change,İklim Değişikliği Başkanlığı,Genel Bütçe Kapsamındaki Kamu İdareleri (General Budget),TR-COA-106
+107,Uludağ Area Directorate,Uludağ Alan Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-107
+108,Presidency of Urban Transformation,Kentsel Dönüşüm Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-108
+109,Presidency of Cybersecurity,Siber Güvenlik Başkanlığı,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-109
+110,General Directorate of Nature Conservation and National Parks,Doğa Koruma ve Millî Parklar Genel Müdürlüğü,Özel Bütçeli Diğer İdareler (Other Special Budget),TR-COA-110
+401,Council of Higher Education (YÖK),Yükseköğretim Kurulu,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-401
+402,Ankara University,Ankara Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-402
+403,Middle East Technical University (METU),Orta Doğu Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-403
+404,Hacettepe University,Hacettepe Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-404
+405,Gazi University,Gazi Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-405
+406,Istanbul University,İstanbul Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-406
+407,Istanbul Technical University,İstanbul Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-407
+408,Boğaziçi University,Boğaziçi Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-408
+409,Marmara University,Marmara Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-409
+410,Yıldız Technical University,Yıldız Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-410
+411,Mimar Sinan Fine Arts University,Mimar Sinan Güzel Sanatlar Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-411
+412,Ege University,Ege Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-412
+413,Dokuz Eylül University,Dokuz Eylül Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-413
+414,Trakya University,Trakya Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-414
+415,Bursa Uludağ University,Bursa Uludağ Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-415
+416,Anadolu University,Anadolu Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-416
+417,Selçuk University,Selçuk Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-417
+418,Akdeniz University,Akdeniz Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-418
+419,Erciyes University,Erciyes Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-419
+420,Sivas Cumhuriyet University,Sivas Cumhuriyet Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-420
+421,Çukurova University,Çukurova Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-421
+422,Ondokuz Mayıs University,Ondokuz Mayıs Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-422
+423,Karadeniz Technical University,Karadeniz Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-423
+424,Atatürk University,Atatürk Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-424
+425,İnönü University,İnönü Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-425
+426,Fırat University,Fırat Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-426
+427,Dicle University,Dicle Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-427
+428,Van Yüzüncü Yıl University,Van Yüzüncü Yıl Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-428
+429,Gaziantep University,Gaziantep Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-429
+430,İzmir Institute of Technology,İzmir Yüksek Teknoloji Enstitüsü,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-430
+431,Gebze Technical University,Gebze Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-431
+432,Harran University,Harran Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-432
+433,Süleyman Demirel University,Süleyman Demirel Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-433
+434,Aydın Adnan Menderes University,Aydın Adnan Menderes Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-434
+435,Zonguldak Bülent Ecevit University,Zonguldak Bülent Ecevit Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-435
+436,Mersin University,Mersin Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-436
+437,Pamukkale University,Pamukkale Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-437
+438,Balıkesir University,Balıkesir Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-438
+439,Kocaeli University,Kocaeli Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-439
+440,Sakarya University,Sakarya Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-440
+441,Manisa Celal Bayar University,Manisa Celal Bayar Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-441
+442,Bolu Abant İzzet Baysal University,Bolu Abant İzzet Baysal Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-442
+443,Hatay Mustafa Kemal University,Hatay Mustafa Kemal Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-443
+444,Afyon Kocatepe University,Afyon Kocatepe Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-444
+445,Kafkas University,Kafkas Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-445
+446,Çanakkale Onsekiz Mart University,Çanakkale Onsekiz Mart Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-446
+447,Niğde Ömer Halisdemir University,Niğde Ömer Halisdemir Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-447
+448,Kütahya Dumlupınar University,Kütahya Dumlupınar Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-448
+449,Tokat Gaziosmanpaşa University,Tokat Gaziosmanpaşa Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-449
+450,Muğla Sıtkı Koçman University,Muğla Sıtkı Koçman Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-450
+451,Kahramanmaraş Sütçü İmam University,Kahramanmaraş Sütçü İmam Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-451
+452,Kırıkkale University,Kırıkkale Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-452
+453,Eskişehir Osmangazi University,Eskişehir Osmangazi Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-453
+454,Galatasaray University,Galatasaray Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-454
+455,Kırşehir Ahi Evran University,Kırşehir Ahi Evran Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-455
+456,Kastamonu University,Kastamonu Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-456
+457,Düzce University,Düzce Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-457
+458,Burdur Mehmet Akif Ersoy University,Burdur Mehmet Akif Ersoy Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-458
+459,Uşak University,Uşak Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-459
+460,Recep Tayyip Erdoğan University,Recep Tayyip Erdoğan Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-460
+461,Tekirdağ Namık Kemal University,Tekirdağ Namık Kemal Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-461
+462,Erzincan Binali Yıldırım University,Erzincan Binali Yıldırım Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-462
+463,Aksaray University,Aksaray Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-463
+464,Giresun University,Giresun Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-464
+465,Hitit University,Hitit Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-465
+466,Yozgat Bozok University,Yozgat Bozok Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-466
+467,Adıyaman University,Adıyaman Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-467
+468,Ordu University,Ordu Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-468
+469,Amasya University,Amasya Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-469
+470,Karamanoğlu Mehmetbey University,Karamanoğlu Mehmetbey Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-470
+471,Ağrı İbrahim Çeçen University,Ağrı İbrahim Çeçen Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-471
+472,Sinop University,Sinop Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-472
+473,Siirt University,Siirt Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-473
+474,Nevşehir Hacı Bektaş Veli University,Nevşehir Hacı Bektaş Veli Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-474
+475,Karabük University,Karabük Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-475
+476,Kilis 7 Aralık University,Kilis 7 Aralık Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-476
+477,Çankırı Karatekin University,Çankırı Karatekin Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-477
+478,Artvin Çoruh University,Artvin Çoruh Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-478
+479,Bilecik Şeyh Edebali University,Bilecik Şeyh Edebali Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-479
+480,Bitlis Eren University,Bitlis Eren Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-480
+481,Kırklareli University,Kırklareli Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-481
+482,Osmaniye Korkut Ata University,Osmaniye Korkut Ata Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-482
+483,Bingöl University,Bingöl Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-483
+484,Muş Alparslan University,Muş Alparslan Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-484
+485,Mardin Artuklu University,Mardin Artuklu Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-485
+486,Batman University,Batman Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-486
+487,Ardahan University,Ardahan Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-487
+488,Bartın University,Bartın Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-488
+489,Bayburt University,Bayburt Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-489
+490,Gümüşhane University,Gümüşhane Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-490
+491,Hakkari University,Hakkari Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-491
+492,Iğdır University,Iğdır Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-492
+493,Şırnak University,Şırnak Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-493
+494,Munzur University,Munzur Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-494
+495,Yalova University,Yalova Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-495
+496,Turkish-German University,Türk Alman Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-496
+497,Ankara Yıldırım Beyazıt University,Ankara Yıldırım Beyazıt Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-497
+498,Bursa Technical University,Bursa Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-498
+499,Istanbul Medeniyet University,İstanbul Medeniyet Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-499
+500,İzmir Kâtip Çelebi University,İzmir Kâtip Çelebi Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-500
+501,Necmettin Erbakan University,Necmettin Erbakan Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-501
+502,Abdullah Gül University,Abdullah Gül Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-502
+503,Erzurum Technical University,Erzurum Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-503
+504,Adana Alparslan Türkeş Science and Technology University,Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-504
+505,Social Sciences University of Ankara,Ankara Sosyal Bilimler Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-505
+506,University of Health Sciences,Sağlık Bilimleri Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-506
+507,Bandırma Onyedi Eylül University,Bandırma Onyedi Eylül Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-507
+508,İskenderun Technical University,İskenderun Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-508
+509,Alanya Alaaddin Keykubat University,Alanya Alaaddin Keykubat Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-509
+511,İzmir Bakırçay University,İzmir Bakırçay Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-511
+512,İzmir Demokrasi University,İzmir Demokrasi Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-512
+513,Higher Education Quality Council,Yükseköğretim Kalite Kurulu,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-513
+514,Ankara Music and Fine Arts University,Ankara Müzik ve Güzel Sanatlar Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-514
+515,Gaziantep Islamic Science and Technology University,Gaziantep İslam Bilim ve Teknoloji Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-515
+516,Konya Technical University,Konya Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-516
+517,Kütahya Health Sciences University,Kütahya Sağlık Bilimleri Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-517
+518,Malatya Turgut Özal University,Malatya Turgut Özal Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-518
+519,Istanbul University - Cerrahpaşa,İstanbul Üniversitesi - Cerrahpaşa,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-519
+520,Ankara Hacı Bayram Veli University,Ankara Hacı Bayram Veli Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-520
+521,Sakarya University of Applied Sciences,Sakarya Uygulamalı Bilimler Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-521
+522,Samsun University,Samsun Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-522
+523,Sivas Science and Technology University,Sivas Bilim ve Teknoloji Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-523
+524,Tarsus University,Tarsus Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-524
+525,Trabzon University,Trabzon Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-525
+526,Kayseri University,Kayseri Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-526
+527,Kahramanmaraş İstiklal University,Kahramanmaraş İstiklal Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-527
+528,Eskişehir Technical University,Eskişehir Teknik Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-528
+529,Isparta University of Applied Sciences,Isparta Uygulamalı Bilimler Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-529
+530,Afyonkarahisar Health Sciences University,Afyonkarahisar Sağlık Bilimleri Üniversitesi,Yükseköğretim Kurumları (Higher Education Institutions),TR-COA-530
